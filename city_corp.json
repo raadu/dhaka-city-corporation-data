@@ -1,578 +1,1145 @@
 [
-    {
-       "area_name": {
-          "en": "Uttara Model Town",
-          "bn": "উত্তরা মডলে টাউন"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-       "area_name": {
-          "en": "Abdullahpur",
-          "bn": "আব্দুল্লাহপুর"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-       "area_name": {
-          "en": "Purakoir",
-          "bn": "পুরাকরৈ"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-       "area_name": {
-          "en": "Shoilpur",
-          "bn": "শৈলপুর"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-       "area_name": {
-          "en": "Faidabad",
-          "bn": "ফায়দাবাদ"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-       "area_name": {
-          "en": "Bawnia",
-          "bn": "বাউনিয়া"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-       "area_name": {
-          "en": "Dakshin Khan",
-          "bn": "দক্ষিণ খান"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-       "area_name": {
-          "en": "Ranavola",
-          "bn": "রানাভোলা"
-       },
-       "city_corporation": "Dhaka North City Corporation",
-       "city_corp_tag": "DNCC",
-       "ward": "1"
-    },
-    {
-        "area_name": {
-           "en": "Mirpur 12",
-           "bn": "মিরপুর ১২"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "2"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 9",
-           "bn": "মিরপুর ৯"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "2"
-     },
-     {
-        "area_name": {
-           "en": "Burir Tek",
-           "bn": "বুড়ির টেক"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "2"
-     },
-     {
-        "area_name": {
-           "en": "Kalshi Shorkar Bari",
-           "bn": "কালশী সরকার বাড়ী"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "2"
-     },
-     {
-        "area_name": {
-           "en": "Shagufta",
-           "bn": "সাগুফতা"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "2"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 10",
-           "bn": "মিরপুর ১০"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "3"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 11",
-           "bn": "মিরপুর ১১"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "3"
-     },
-     {
-        "area_name": {
-           "en": "Modina Nogor",
-           "bn": "মদিনা নগর"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "3"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 13",
-           "bn": "মিরপুর ১৩"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 13/A",
-           "bn": "মিরপুর ১৩/এ"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 13/B",
-           "bn": "মিরপুর ১৩/বি"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 13/C",
-           "bn": "মিরপুর ১৩/সি"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "Tinshed, Mirpur 14",
-           "bn": "টিনসেড, ,মিরপুর ১৪"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 14",
-           "bn": "মিরপুর ১৪"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "Baishteki",
-           "bn": "বাইশটেকী"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "Mirpur 15",
-           "bn": "মিরপুর ১৫"
-        },
-        "city_corporation": "Dhaka North City Corporation",
-        "city_corp_tag": "DNCC",
-        "ward": "4"
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
-     {
-        "area_name": {
-           "en": "",
-           "bn": ""
-        },
-        "city_corporation": "",
-        "city_corp_tag": "",
-        "ward": ""
-     },
- ]
+   {
+      "area_name": {
+         "en": "Uttara Model Town",
+         "bn": "উত্তরা মডলে টাউন"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Abdullahpur",
+         "bn": "আব্দুল্লাহপুর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Purakoir",
+         "bn": "পুরাকরৈ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Shoilpur",
+         "bn": "শৈলপুর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Faidabad",
+         "bn": "ফায়দাবাদ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Bawnia",
+         "bn": "বাউনিয়া"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Dakshin Khan",
+         "bn": "দক্ষিণ খান"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Ranavola",
+         "bn": "রানাভোলা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 12",
+         "bn": "মিরপুর ১২"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "2"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 9",
+         "bn": "মিরপুর ৯"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "2"
+   },
+   {
+      "area_name": {
+         "en": "Burir Tek",
+         "bn": "বুড়ির টেক"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "2"
+   },
+   {
+      "area_name": {
+         "en": "Kalshi Shorkar Bari",
+         "bn": "কালশী সরকার বাড়ী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "2"
+   },
+   {
+      "area_name": {
+         "en": "Shagufta",
+         "bn": "সাগুফতা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "2"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 10",
+         "bn": "মিরপুর ১০"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "3"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11",
+         "bn": "মিরপুর ১১"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "3"
+   },
+   {
+      "area_name": {
+         "en": "Modina Nogor",
+         "bn": "মদিনা নগর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "3"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 13",
+         "bn": "মিরপুর ১৩"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 13/A",
+         "bn": "মিরপুর ১৩/এ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 13/B",
+         "bn": "মিরপুর ১৩/বি"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 13/C",
+         "bn": "মিরপুর ১৩/সি"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Tinshed, Mirpur 14",
+         "bn": "টিনসেড, ,মিরপুর ১৪"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 14",
+         "bn": "মিরপুর ১৪"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Baishteki",
+         "bn": "বাইশটেকী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 15",
+         "bn": "মিরপুর ১৫"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "4"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11",
+         "bn": "মিরপুর ১১"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11 , Block A",
+         "bn": "মিরপুর ১১ , ব্লক এ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11 , Block B",
+         "bn": "মিরপুর ১১ , ব্লক বি"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11 , Block C",
+         "bn": "মিরপুর ১১ , ব্লক সি"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11 , Block D",
+         "bn": "মিরপুর ১১ , ব্লক ডি"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11 , Block E",
+         "bn": "মিরপুর ১১ , ব্লক ই"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 11 , Block F",
+         "bn": "মিরপুর ১১ , ব্লক এফ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Polashnogor",
+         "bn": "পলাশনগর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "5"
+   },
+   {
+      "area_name": {
+         "en": "Pallabi",
+         "bn": "পল্লবী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Pallabi Extended",
+         "bn": "বর্ধিত পল্লবী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Milkvita Road",
+         "bn": "মিল্কভিটা রোড"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Shujatnogor",
+         "bn": "সুজাতনগর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Horunabad",
+         "bn": "হরুনাবাদ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Mollika Housing",
+         "bn": "মল্লিকা হাউজিং"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Arifabad",
+         "bn": "আরিফাবাদ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Chayanir",
+         "bn": "ছায়ানীড়"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Alubdi",
+         "bn": "আলু্ব্দী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Duaripara",
+         "bn": "দুয়ারীপাড়া"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Rupnagar Tinshed",
+         "bn": "রূপনগর টিনশেড"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Eastern Housing 2nd Part",
+         "bn": "ইষ্টান হাউজিং দ্বিতীয় পর্ব"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "6"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 2",
+         "bn": "মিরপুর ২"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "7"
+   },
+   {
+      "area_name": {
+         "en": "Rupnagar Residential Area",
+         "bn": "রূপরগর আবাসিক এলাকা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "7"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 7",
+         "bn": "মিরপুর ৭"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "7"
+   },
+   {
+      "area_name": {
+         "en": "Mirpur 1",
+         "bn": "মিরপুর ১"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Wapda Colony",
+         "bn": "ওয়াপদা কলোণী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Al Kamal Housing",
+         "bn": "আল কামাল হাউজিং"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Zoo Residential Area",
+         "bn": "চিড়িয়াখানা আবাসিক এলাকা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Nobaber Bagh",
+         "bn": "নবাবের বাগ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Goran Chatbari",
+         "bn": "গোড়ান চটবাড়ী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "BISF Staff Quarter",
+         "bn": "বি.আই.এস.এফ স্টাফ কোয়াটার"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Kumir Shah Majar",
+         "bn": "কুমীরশাহ মাজার"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Box Nogor",
+         "bn": "বক্স নগর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Uttar Bishil",
+         "bn": "উত্তর বিশিল"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Priyanka Housing , Mirpur 1",
+         "bn": "প্রিয়াংকা হাউজিং , মিরপুর ১"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Botanical Garden Residential Area",
+         "bn": "বোটানিক্যাল গার্ডেন আবাসিক এলাকা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "8"
+   },
+   {
+      "area_name": {
+         "en": "Golartek",
+         "bn": "গোলারটেক"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Choto Diabari",
+         "bn": "ছোট দিয়াবাড়ী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Boro Diabari",
+         "bn": "বড় দিয়াবাড়ী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Johurabad",
+         "bn": "জহুরাবাদ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Anondonogor",
+         "bn": "আনন্দনগর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Kotbari",
+         "bn": "কোটবাড়ী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Char Ani Para",
+         "bn": "চারআনী পাড়া"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Baro Ani Para",
+         "bn": "বারআনীপাড়া"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Baghbari",
+         "bn": "বাগবাড়ী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Horirampur",
+         "bn": "হরিরামপূর"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Kor Bazar",
+         "bn": "কড় বাজার"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Jahanabad",
+         "bn": "জাহানাবাদ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Rishipara",
+         "bn": "ঋশিপাড়া"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Bardhan Bari",
+         "bn": "র্বধন বাড়ী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Gabtoli Bus Terminal",
+         "bn": "গাবতলী বাস টার্মিনাল"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Gabtoli Gorur Haat",
+         "bn": "গাবতলী গরুর হাট"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Suipar Colony",
+         "bn": "সুইপার কলোনী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Amin Bazar",
+         "bn": "আমিন বাজার"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Paikari Kacha Bazar",
+         "bn": "পাইকারী কাঁচা বাজার"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "9"
+   },
+   {
+      "area_name": {
+         "en": "Mazar Road",
+         "bn": "মাজার রোড"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "10"
+   },
+   {
+      "area_name": {
+         "en": "Darus Salam",
+         "bn": "দারুস সালাম"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "10"
+   },
+   {
+      "area_name": {
+         "en": "Goidartek",
+         "bn": "গৈদারটেক"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "10"
+   },
+   {
+      "area_name": {
+         "en": "Lalkuthi",
+         "bn": "লালকুঠী"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "10"
+   },
+   {
+      "area_name": {
+         "en": "Baten Nogor Residential Area",
+         "bn": "বাতেন নগর আবাসিক এলাকা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "10"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": ""
+   },
+]
