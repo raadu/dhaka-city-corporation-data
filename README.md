@@ -6,6 +6,7 @@ Data includes (or will soon include):
   - Bangla Name
   - English Name
 - City Corporation Name
+- City Corporation Tag
 - Ward Number
 - Zip Code
 - Post Office Name
