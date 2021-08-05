@@ -12,13 +12,14 @@ Data includes (or will soon include):
 - Post Office Name
 - Police Station Name
 - Nearby Areas
+- Nearby Hospitals
 - Comments About The Place
 
 <br>
 
 # How To Contribute
 
-We need more contributors. You are cordially invited to clean up this mess. 
+We need more contributors. You are cordially invited to clean up this mess.
 <br>
 
  1. **Fork** the repo on GitHub
