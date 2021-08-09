@@ -3897,6 +3897,4335 @@
       "ward": "54"
    },
    {
+      "area_name":{
+         "en":"Khilgaon Block C",
+         "bn":"খিলগাও ব্লক সি"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"1"
+   },
+   {
+      "area_name":{
+         "en":"Dakshin Goran",
+         "bn":"দক্ষিণ গোরান"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"2"
+   },
+   {
+      "area_name":{
+         "en":"Angur Jora",
+         "bn":"আঙ্গুর জোড়া"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"3"
+   },
+   {
+      "area_name":{
+         "en":"Meradia (Part-1)",
+         "bn":"মেরাদিয়া (১ম অংশ)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"3"
+   },
+   {
+      "area_name":{
+         "en":"Meradia (Part-3",
+         "bn":"মেরাদিয়া (৩য় অংশ)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"3"
+   },
+   {
+      "area_name":{
+         "en":"Meradia (Part-2)",
+         "bn":"মেরাদিয়া (২য় অংশ)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"3"
+   },
+   {
+      "area_name":{
+         "en":"Banasree Uttar (Block E,F)",
+         "bn":"বনশ্রী (উত্তর) - ব্লক ই, এফ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"3"
+   },
+   {
+      "area_name":{
+         "en":"Banasree Uttar  (Block G,H)",
+         "bn":"বনশ্রী (উত্তর) - ব্লক জি, এইচ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"3"
+   },
+   {
+      "area_name":{
+         "en":"Dakshin Mugda Para",
+         "bn":"দক্ষিণ মুগদাপাড়া"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"6"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Mugda Para",
+         "bn":"উত্তর মুগদাপাড়া"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"6"
+   },
+   {
+      "area_name":{
+         "en":"Dakshin Shantibagh",
+         "bn":"দক্ষিণ শান্তিবাগ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"12"
+   },
+   {
+      "area_name":{
+         "en":"Gulbagh",
+         "bn":"গুলবাগ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"12"
+   },
+   {
+      "area_name":{
+         "en":"Malibagh",
+         "bn":"মালিবাগ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"12"
+   },
+   {
+      "area_name":{
+         "en":"Shantibagh  Uttar (North)",
+         "bn":"শান্তিবাগ (উত্তর)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"12"
+   },
+   {
+      "area_name":{
+         "en":"Baitul Mukarram",
+         "bn":"বায়তুল মুকাররম"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Bijoynagar (Part)",
+         "bn":"বিজয়নগর (১ম অংশ)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"B. B. Avenue",
+         "bn":"বি বি এভিনিউ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Chamilibagh",
+         "bn":"চামেলীবাগ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Gulistan",
+         "bn":"গুলিস্থান"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"GPO",
+         "bn":"জিপিও"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Naya Paltan",
+         "bn":"নয়া পল্টন"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Purana Paltan",
+         "bn":"পুরানা পল্টন"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Rajarbagh Police Hospital",
+         "bn":"রাজারবাগ পুলিশ হাসপাতাল"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Rajarbagh",
+         "bn":"রাজারবাগ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Shantinagar",
+         "bn":"শান্তিনগর"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Stadium (Outer Stadium)",
+         "bn":"স্টেডিয়াম"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"13"
+   },
+   {
+      "area_name":{
+         "en":"Siddeswary (Part-2)",
+         "bn":"সিদ্ধেস্বরী (২য় অংশ)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Bangla Motor",
+         "bn":"বাংলামটর"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"21"
+   },
+   {
+      "area_name":{
+         "en":"Paribagh",
+         "bn":"পরিবাগ"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"21"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka University Paschim",
+         "bn":"ঢাকা বিশ্ববিদ্যালয় (পশ্চিম)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"21"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka University Purba (Part)",
+         "bn":"ঢাকা বিশ্ববিদ্যালয় (পূর্ব)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"21"
+   },
+   {
+      "area_name":{
+         "en":"Shahbagh (Hatirpool Bazar)",
+         "bn":"শাহবাগ (হাতিরপুল বাজার)"
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"21"
+   },
+   {
+      "area_name":{
+         "en":"Debidas Ghat Lane (Kamal Bag)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Hakim Habibur Rahman",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Imamganj",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Jumun Bepari Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Mohiuddin Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Paschim Sowarighat",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Purba Sowarighat",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Ruihatta",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Zadab Narayan Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"30"
+   },
+   {
+      "area_name":{
+         "en":"Khilgaon Block A",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"1"
+   },
+   {
+      "area_name":{
+         "en":"Bank Colony",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"10"
+   },
+   {
+      "area_name":{
+         "en":"Motijheel Colony",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"10"
+   },
+   {
+      "area_name":{
+         "en":"T &t Colony",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"10"
+   },
+   {
+      "area_name":{
+         "en":"Shahjahanpur Dakkhin (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"11"
+   },
+   {
+      "area_name":{
+         "en":"Khilgaon Bagicha",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"11"
+   },
+   {
+      "area_name":{
+         "en":"Mominbagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"11"
+   },
+   {
+      "area_name":{
+         "en":"Shahidbagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"11"
+   },
+   {
+      "area_name":{
+         "en":"Shahjahanpur Uttar (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"11"
+   },
+   {
+      "area_name":{
+         "en":"Hazi Gani Community Centre, Azimpur",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"11"
+   },
+   {
+      "area_name":{
+         "en":"Jigatola",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Jigatola Staff Quarter",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Moneshwar Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Tinmazar (Jigatola)\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Baraikhali",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Birbanda Kechura",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Charakghata",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Sonatengar (Jauchar)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Hazaribagh Tennery",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Shikaritola",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Sreekhanda",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Sultanganj (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Sonatengar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Sonatengar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"14"
+   },
+   {
+      "area_name":{
+         "en":"Afsaruddin Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Dhanmondi R.A",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Eidgah Road (Paschim Dhanmondi)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Hatembagh Road\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Madhu Bazar (South-East Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Mitali Road (Partial)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Purba Royer Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Royer Bazar Staff Quarter",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Sher-e-bangla Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"15"
+   },
+   {
+      "area_name":{
+         "en":"Crecent & North Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"16"
+   },
+   {
+      "area_name":{
+         "en":"Free School Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"16"
+   },
+   {
+      "area_name":{
+         "en":"Central Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"16"
+   },
+   {
+      "area_name":{
+         "en":"Kanthal Bagan",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"16"
+   },
+   {
+      "area_name":{
+         "en":"Abed Dhali Road\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Basiruddin Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Green Road Staff Quarter",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Kalabagan",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Kalabagan Lake Circus",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Green Road Paschim (West)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Dhanmondi Uttar (North)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Jute Research Institute",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Sobhanbagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Sukrabad (Partial)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Tallabagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"17"
+   },
+   {
+      "area_name":{
+         "en":"Ayub Ali Colony",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"18"
+   },
+   {
+      "area_name":{
+         "en":"Bgb Camp (Pilkhana)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"18"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka College\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"18"
+   },
+   {
+      "area_name":{
+         "en":"Elephant Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"18"
+   },
+   {
+      "area_name":{
+         "en":"Newmarket",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"18"
+   },
+   {
+      "area_name":{
+         "en":"Nilkhet Babupura",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"18"
+   },
+   {
+      "area_name":{
+         "en":"Science Laboratory",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"18"
+   },
+   {
+      "area_name":{
+         "en":"Baje Kakrail",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Boro Maghbazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Circuit House",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Eskaton",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Kakrail (Partial)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Malibagh Paschim (west)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Ramna (Mintu & Baily Road)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Siddeswary Baily Square",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"19"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Goran (Part-1)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"2"
+   },
+   {
+      "area_name":{
+         "en":"Banasree Dakkhin  (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"2"
+   },
+   {
+      "area_name":{
+         "en":"Goran Purbo East) ",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"2"
+   },
+   {
+      "area_name":{
+         "en":"Goran Uttar (Part-2)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"2"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka Medical College Hostel\n\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Engineering University Hostel",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka Medical College",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Engineering University",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Fulbaria",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Highcourt",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka University Purba (East)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Ramna Green House",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Segun Bagicha (Bijoynagar)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Shisu Park",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Sohrawardi Uddyan",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Topkhana",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"20"
+   },
+   {
+      "area_name":{
+         "en":"Borhanpur Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Baddanagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Bhagalpur Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Enayetganj",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Ganaktuli",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Hazaribagh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Hazaribagh Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Kalunagar (East)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Kalunagar (West)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Kazirbagh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Kulalmahal Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Moneshwar 2nd Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Moneshwar Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Moneshwar 1st Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Nabipur Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Nilambar Saha Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Sweeper Colony (Bhangi Colony)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"22"
+   },
+   {
+      "area_name":{
+         "en":"Abdul Aziz Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Azimpur Pilkhana Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Duriangul Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Notun Paltan Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Lalbagh Road Part-1",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Lalbagh Road Part-02",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Hossainuddin Khan 1st Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Kashmiritola Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Hossainuddin Khan 2nd Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Lolitmohan Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Mc Roy Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Medical College Staff Quarter",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Nawabganj Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Nawabganj Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Lalbagh Road (Paschim - West)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Subal Das Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Natun Paltan Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"23"
+   },
+   {
+      "area_name":{
+         "en":"Jagannath Saha Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"24"
+   },
+   {
+      "area_name":{
+         "en":"Rajnarayan Dhar Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"24"
+   },
+   {
+      "area_name":{
+         "en":"Shahidnagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"24"
+   },
+   {
+      "area_name":{
+         "en":"Atosh Khan Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Dakshin Lalbagh Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Gangaram Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Harmohan Shil Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Kazi Reajuddin Road Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Lalbagh Fort",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Nagar Beltali",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Pushparaj Saha Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Raja Sreenath Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Shekh Saheb Bazar Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Subal Das Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Jagannath Saha Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Lalbagh Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"25"
+   },
+   {
+      "area_name":{
+         "en":"Azimpur Road (Part 1, 2)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Azimpur Gorasthan Elaka",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Bc Das Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Dakshin Azimpur Estate",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Nilkhet Municipal Market",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Palashy Barrack",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Dhakeshwari Road,",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Eden Girls College & Hostel",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Home Economics College & Hostel",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Polashi 2nd Market",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Passchim Polashi Staff Quarter",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Palashi Purba (East)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Purba Azimpur Estate",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Rasulbagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Lalbagh Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Azimpur Estate",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"26"
+   },
+   {
+      "area_name":{
+         "en":"Nazimuddin Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Amlapara Buet Teachers Staff Quarter",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Bakshi Bazar Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Bakshi Bazar Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Girda Urdu Road\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Hossaini Dalan Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Joynag Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Kamaldaha Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Nurfatah Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Nawab Garden",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Orphanage Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Paschim Nazimuddin Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Tatkhan Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Umesh Datta Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"27"
+   },
+   {
+      "area_name":{
+         "en":"Chak Circular Road (Chalk Bazar)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Gour Sundar Roy Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Haranath Ghosh Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Haranath Ghosh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Hyder Box Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Khaza Dewan 2nd Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Khaza Dalsing Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Kb Rudra Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Khaze Dewan 1st Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Mohammad Asgar Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Nanda Kumar Datta Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Urdu Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"28"
+   },
+   {
+      "area_name":{
+         "en":"Haji Rahim Box Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"29"
+   },
+   {
+      "area_name":{
+         "en":"Haji Ballu Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"29"
+   },
+   {
+      "area_name":{
+         "en":"Paschim Islambagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"29"
+   },
+   {
+      "area_name":{
+         "en":"Purba Islambagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"29"
+   },
+   {
+      "area_name":{
+         "en":"Rahmatganj Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"29"
+   },
+   {
+      "area_name":{
+         "en":"Sayestakhan Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"29"
+   },
+   {
+      "area_name":{
+         "en":"Water Works Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"29"
+   },
+   {
+      "area_name":{
+         "en":"Abul Hasnat Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Abul Khairat Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Armenian Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Ac Roy Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Azizullah Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Dc Roy Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Gulam Mustafa Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Begum Bazar (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Kedar Nath Dey Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Km Azam Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Nabalak Mia Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Nurbaksh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Paddalochan Roy Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Purba Becharam Dewri",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"S.c.c. Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Aga Nawab Deuri Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Ali Hossain Khan Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Begum Bazar (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Bk Roy Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Digu Babu Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka Central Jail",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Gogadra Narayan Shil",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Hafizullah Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Jail Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Paschim Becharam",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Moulvi Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Deuri Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Mokim Katra",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"31"
+   },
+   {
+      "area_name":{
+         "en":"Bagdasha Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Bangsal Road (Makim Bazar)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Kp Ghosh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Gobinda Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Haji A.rashid Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Uttar K.p. Ghosh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Kazimuddin Siddique Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Koshaitali",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"S.c.c. Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Akmal Khan Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Samserabad",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Badamtali (Kotwali)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Dhaka Steamarghat",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Roybahadur Ishwarchandra Gosh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Haybet Nagar Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Islampur Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Jindabahar 1st Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Jindabahar 2nd Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Jindabahar 3rd Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Kazi Ziauddin Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Pk Roy Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Sahazada Mia Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Sayed Hasan Ali Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"32"
+   },
+   {
+      "area_name":{
+         "en":"Abul Hasnat Road (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Agamashi Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Aga Sadeque Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Abdul Hadi Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Ali Naki Deuri",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Bk Ganguli Lane (Kayettul)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Bangshal Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"(ix) Sikkatuli Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Nawab Katara",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Chankharpool",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Nawab Katra",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Sikkatuli Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"33"
+   },
+   {
+      "area_name":{
+         "en":"Haji Osman Gani Road (Alu Bazar)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Kazi a Hamid Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Kazi Alauddin Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Lutfur Rahman Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Nawabpur Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Takerhat",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Siddique Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Puratan Station Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Nazira Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"34"
+   },
+   {
+      "area_name":{
+         "en":"Bangshal Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Bhitar Bari Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"English Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"France Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Gulak Pal Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Haji Abdullah Sarkar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Haji Mainuddin Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Malitola Road 6",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Naya Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Nawab Yousuf Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Nawabpur Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Puratan Mogultoli",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Basa Bari Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"35"
+   },
+   {
+      "area_name":{
+         "en":"Goalnagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Court House Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Ashok Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Johnson Road (Roysaheb Bazar)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Kailash Ghosh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Kotwali Road Hori Proshono Mit",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Naba Roy Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Panitola (R CH Bosak Lane)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Proshanna Podder Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Radhika Mohan Basak Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Rajar Deuri",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Sakhari Bazar (North-1-65)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Sayed Aowlad Hossain Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Tati Bazar (B CH Poddar Lane)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Uchab Poddar Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"36"
+   },
+   {
+      "area_name":{
+         "en":"Islampur (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Jagannath University Area",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Kabiraj Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Ramakanta Nandi Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Patuatuli",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Nawabbari",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Kumartuly",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Bangla Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Sadarghat Hawkers Market",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Waiseghat",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Simson Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Shakhari Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"37"
+   },
+   {
+      "area_name":{
+         "en":"Banagram",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Chandramohan Basak Lane 6",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Goalghat",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Gopimohan Basak Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Jadunath Basak Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Joriatuli Lane 6",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Juginagar Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Lalchad",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Kaptan Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Mokim Lane (new)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Wari (part 1)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Tipu Sultan Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Thatary Bazar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Taherbagh Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Shashi Mohan Basak Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Rabidas Para (D Muhipara)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Nawabpur Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Nabrendra Nath Basak Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Madan Pal Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Mahazanpur Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"38"
+   },
+   {
+      "area_name":{
+         "en":"Abhaydas Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"39"
+   },
+   {
+      "area_name":{
+         "en":"Rk Mission Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"39"
+   },
+   {
+      "area_name":{
+         "en":"Km Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"39"
+   },
+   {
+      "area_name":{
+         "en":"Hatkhola",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"39"
+   },
+   {
+      "area_name":{
+         "en":"Chaya Bithi Housing",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Bashabo Dakkhin (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Madartek Dakshin (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Bashabo Madhya  (Middle)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Madartek Purbo (East)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Bashabo Purba  (East - Part) ",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Madartek Uttar (North)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Bashabo Uttar (North)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Madar Tek (West)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"4"
+   },
+   {
+      "area_name":{
+         "en":"Dayaganj (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"40"
+   },
+   {
+      "area_name":{
+         "en":"Narinda (Part 1)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"40"
+   },
+   {
+      "area_name":{
+         "en":"Karatitola (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"40"
+   },
+   {
+      "area_name":{
+         "en":"Sarat Gupta Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"40"
+   },
+   {
+      "area_name":{
+         "en":"Shamibagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"40"
+   },
+   {
+      "area_name":{
+         "en":"Doyaganj Jeleypara",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"40"
+   },
+   {
+      "area_name":{
+         "en":"Karatitola (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"40"
+   },
+   {
+      "area_name":{
+         "en":"Bhajahari Saha Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Dakkhin Moshundi",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Joor Pool Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Lalmohan Shaha Street",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Narinda (Part-2)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Tipu Sultan Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Mousondi",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Wari (Part-2)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"41"
+   },
+   {
+      "area_name":{
+         "en":"Haji A.mazid Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Kazi A. Rouf Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Jonson Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Lakshmi Bazar (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Nasiruddin Sardar Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Nabadwip Basak Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Pachbhai Ghat Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Raggunath Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Rokanpur",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"42"
+   },
+   {
+      "area_name":{
+         "en":"Debendra Nath Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Farashganj",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Lakshmi Bazar (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Madan Mohan Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Peari Das Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Rupchand Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Suklal Das Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Ultinganj",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"43"
+   },
+   {
+      "area_name":{
+         "en":"Begumganj (Companiganj)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"44"
+   },
+   {
+      "area_name":{
+         "en":"Banianagar (Kather Pool)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"44"
+   },
+   {
+      "area_name":{
+         "en":"Rishikesh Das Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"44"
+   },
+   {
+      "area_name":{
+         "en":"Walter Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"44"
+   },
+   {
+      "area_name":{
+         "en":"R.M. Das Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"44"
+   },
+   {
+      "area_name":{
+         "en":"Tanugonj Jadgeti Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"44"
+   },
+   {
+      "area_name":{
+         "en":"Distillery Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"45"
+   },
+   {
+      "area_name":{
+         "en":"Gendaria (Part 1 & 2)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"45"
+   },
+   {
+      "area_name":{
+         "en":"Murgitola",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"45"
+   },
+   {
+      "area_name":{
+         "en":"Namapara",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"45"
+   },
+   {
+      "area_name":{
+         "en":"S.K Das Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"45"
+   },
+   {
+      "area_name":{
+         "en":"Akshoy Das Road\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Alamganj",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Dhalka Nagar (Part-1)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Haricharan Roy Road (Part-1)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Kalicharan Saha Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Keshob Banarjee Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Mill Barack",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Satish Sarker Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Shakari Nagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"46"
+   },
+   {
+      "area_name":{
+         "en":"Bahadurpur\n",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"DIT Area",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"Dhalka Nagar (Part-2)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"Faridabad",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"Haricharan Roy Road (Part-2)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"IG Gate",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"Lalmohan Poddar Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"Nabinchand Goswami Road",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"Postagola (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"47"
+   },
+   {
+      "area_name":{
+         "en":"Sayedabad Dakkhin (South) ",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"48"
+   },
+   {
+      "area_name":{
+         "en":"Sayedabad",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"48"
+   },
+   {
+      "area_name":{
+         "en":"Jatrabari  Uttar  (North)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"48"
+   },
+   {
+      "area_name":{
+         "en":"Sayedabad Uttar (North) ",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"48"
+   },
+   {
+      "area_name":{
+         "en":"Brahman Chiron",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"49"
+   },
+   {
+      "area_name":{
+         "en":"Dalpur",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"49"
+   },
+   {
+      "area_name":{
+         "en":"Ahmedbagh\n \n ",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"5"
+   },
+   {
+      "area_name":{
+         "en":"Kadamtala",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"5"
+   },
+   {
+      "area_name":{
+         "en":"Mayakanon (Thakur Para)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"5"
+   },
+   {
+      "area_name":{
+         "en":"Bashabo Purbo (Block A)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"5"
+   },
+   {
+      "area_name":{
+         "en":"Rajarbagh (A & B)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"5"
+   },
+   {
+      "area_name":{
+         "en":"Sabujbagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"5"
+   },
+   {
+      "area_name":{
+         "en":"Shobuj Kanon",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"5"
+   },
+   {
+      "area_name":{
+         "en":"Jatrabari Dakkhin (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"50"
+   },
+   {
+      "area_name":{
+         "en":"Jatrabari Paschim (West)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"50"
+   },
+   {
+      "area_name":{
+         "en":"Jatrabari Uttar  North (Part)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"50"
+   },
+   {
+      "area_name":{
+         "en":"Dakshin Mir Hazirbagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"51"
+   },
+   {
+      "area_name":{
+         "en":"Purba Dholairpar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"51"
+   },
+   {
+      "area_name":{
+         "en":"Par Gendaria",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"51"
+   },
+   {
+      "area_name":{
+         "en":"Paschim Dholairpar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"51"
+   },
+   {
+      "area_name":{
+         "en":"Uttar Mir Hazaribagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"51"
+   },
+   {
+      "area_name":{
+         "en":"Muradpur-1",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"52"
+   },
+   {
+      "area_name":{
+         "en":"Muradpur-2",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"52"
+   },
+   {
+      "area_name":{
+         "en":"Kusumbag Khamer Bari",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"53"
+   },
+   {
+      "area_name":{
+         "en":"Nabarun School Area",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"53"
+   },
+   {
+      "area_name":{
+         "en":"Alinagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Amin Bagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Jaolahati",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Munshihati",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Nowagaon",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Takerhati",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Hasan Nagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Hazrat Nagae",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Nabinagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"West Baragram",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"West Rasulpur",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"55"
+   },
+   {
+      "area_name":{
+         "en":"Ashrafabad",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"56"
+   },
+   {
+      "area_name":{
+         "en":"Islamnagar",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"56"
+   },
+   {
+      "area_name":{
+         "en":"East Baragram",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"56"
+   },
+   {
+      "area_name":{
+         "en":"East Rasulpur",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"56"
+   },
+   {
+      "area_name":{
+         "en":"Mominbagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"56"
+   },
+   {
+      "area_name":{
+         "en":"Kazirbhag",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"7"
+   },
+   {
+      "area_name":{
+         "en":"Maniknagar Purbo (East)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"7"
+   },
+   {
+      "area_name":{
+         "en":"Maniknagar Dakkhin (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"7"
+   },
+   {
+      "area_name":{
+         "en":"Maniknagar Uttar (North)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"7"
+   },
+   {
+      "area_name":{
+         "en":"Miazan Lane",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"7"
+   },
+   {
+      "area_name":{
+         "en":"Kamlapur Dakkhin (South)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"8"
+   },
+   {
+      "area_name":{
+         "en":"Gopibagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"8"
+   },
+   {
+      "area_name":{
+         "en":"Kamlapur Railway Station",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"8"
+   },
+   {
+      "area_name":{
+         "en":"Kamlapur Railway Hospital",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"8"
+   },
+   {
+      "area_name":{
+         "en":"Kamalapur Uttar (North)",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"8"
+   },
+   {
+      "area_name":{
+         "en":"Arambagh",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"9"
+   },
+   {
+      "area_name":{
+         "en":"Bangabhaban",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"9"
+   },
+   {
+      "area_name":{
+         "en":"Dilkusha C/A",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"9"
+   },
+   {
+      "area_name":{
+         "en":"Fakira Pool",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"9"
+   },
+   {
+      "area_name":{
+         "en":"Motijheel C/A",
+         "bn":""
+      },
+      "city_corporation":"Dhaka South City Corporation",
+      "city_corp_tag":"DSCC",
+      "ward":"9"
+   },
+   {
       "area_name": {
          "en": "",
          "bn": ""
