@@ -7553,7 +7553,7 @@
    {
       "area_name":{
          "en":"Dhalka Nagar (Part-1)",
-         "bn":""
+         "bn":"ঢালকা নগর (১ম অংশ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7562,7 +7562,7 @@
    {
       "area_name":{
          "en":"Haricharan Roy Road (Part-1)",
-         "bn":""
+         "bn":"হরিচরণ রায় রোড (১ম অংশ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7571,7 +7571,7 @@
    {
       "area_name":{
          "en":"Kalicharan Saha Road",
-         "bn":""
+         "bn":"কালিচরণ সাহা রোড"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7580,7 +7580,7 @@
    {
       "area_name":{
          "en":"Keshob Banarjee Lane",
-         "bn":""
+         "bn":"কেশব ব্যানার্জী লেন"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7589,7 +7589,7 @@
    {
       "area_name":{
          "en":"Mill Barack",
-         "bn":""
+         "bn":"মিল ব্যারাক"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7598,7 +7598,7 @@
    {
       "area_name":{
          "en":"Satish Sarker Road",
-         "bn":""
+         "bn":"সতীশ সরকার রোড"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7607,7 +7607,7 @@
    {
       "area_name":{
          "en":"Shakari Nagar",
-         "bn":""
+         "bn":"শাকারী নগর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7615,8 +7615,8 @@
    },
    {
       "area_name":{
-         "en":"Bahadurpur\n",
-         "bn":""
+         "en":"Bahadurpur",
+         "bn":"বাহাদুরপুর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7625,7 +7625,7 @@
    {
       "area_name":{
          "en":"DIT Area",
-         "bn":""
+         "bn":"ডি আই টি এলাকা"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7634,7 +7634,7 @@
    {
       "area_name":{
          "en":"Dhalka Nagar (Part-2)",
-         "bn":""
+         "bn":"ঢালকা নগর (২য় অংশ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7643,7 +7643,7 @@
    {
       "area_name":{
          "en":"Faridabad",
-         "bn":""
+         "bn":"ফরিদাবাদ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7652,7 +7652,7 @@
    {
       "area_name":{
          "en":"Haricharan Roy Road (Part-2)",
-         "bn":""
+         "bn":"হরিচরণ রায় রোড (২য় অংশ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7661,7 +7661,7 @@
    {
       "area_name":{
          "en":"IG Gate",
-         "bn":""
+         "bn":"আইজি গেট"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7670,7 +7670,7 @@
    {
       "area_name":{
          "en":"Lalmohan Poddar Lane",
-         "bn":""
+         "bn":"লালমোহন পোদ্দার লেন"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7679,7 +7679,7 @@
    {
       "area_name":{
          "en":"Nabinchand Goswami Road",
-         "bn":""
+         "bn":"নবীচাঁদ গোস্বামী রোড"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7688,7 +7688,7 @@
    {
       "area_name":{
          "en":"Postagola (Part)",
-         "bn":""
+         "bn":"পোস্তগোলা"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7696,8 +7696,8 @@
    },
    {
       "area_name":{
-         "en":"Sayedabad Dakkhin (South) ",
-         "bn":""
+         "en":"Sayedabad Dakkhin (South)",
+         "bn":"সায়েদাবাদ (দক্ষিণ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7706,7 +7706,7 @@
    {
       "area_name":{
          "en":"Sayedabad",
-         "bn":""
+         "bn":"সায়েদাবাদ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7715,7 +7715,7 @@
    {
       "area_name":{
          "en":"Jatrabari  Uttar  (North)",
-         "bn":""
+         "bn":"যাত্রাবাড়ি (উত্তর)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7724,7 +7724,7 @@
    {
       "area_name":{
          "en":"Sayedabad Uttar (North) ",
-         "bn":""
+         "bn":"সায়েদাবাদ (উত্তর)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7733,7 +7733,7 @@
    {
       "area_name":{
          "en":"Brahman Chiron",
-         "bn":""
+         "bn":"ব্রাহ্মণচিরণ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7742,7 +7742,7 @@
    {
       "area_name":{
          "en":"Dalpur",
-         "bn":""
+         "bn":"ডালপুর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7750,8 +7750,8 @@
    },
    {
       "area_name":{
-         "en":"Ahmedbagh\n \n ",
-         "bn":""
+         "en":"Ahmedbagh",
+         "bn":"আহমেদবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7760,7 +7760,7 @@
    {
       "area_name":{
          "en":"Kadamtala",
-         "bn":""
+         "bn":"কদমতলা"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7769,7 +7769,7 @@
    {
       "area_name":{
          "en":"Mayakanon (Thakur Para)",
-         "bn":""
+         "bn":"মায়াকানন (ঠাকুরপাড়া)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7778,7 +7778,7 @@
    {
       "area_name":{
          "en":"Bashabo Purbo (Block A)",
-         "bn":""
+         "bn":"বাসাবো (পূর্ব - ব্লক এ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7787,7 +7787,7 @@
    {
       "area_name":{
          "en":"Rajarbagh (A & B)",
-         "bn":""
+         "bn":"রাজারবাগ (এ, বি)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7796,7 +7796,7 @@
    {
       "area_name":{
          "en":"Sabujbagh",
-         "bn":""
+         "bn":"সবুজবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7805,7 +7805,7 @@
    {
       "area_name":{
          "en":"Shobuj Kanon",
-         "bn":""
+         "bn":"সবুজকানন"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7814,7 +7814,7 @@
    {
       "area_name":{
          "en":"Jatrabari Dakkhin (South)",
-         "bn":""
+         "bn":"যাত্রাবাড়ি (দক্ষিণ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7823,7 +7823,7 @@
    {
       "area_name":{
          "en":"Jatrabari Paschim (West)",
-         "bn":""
+         "bn":"যাত্রাবাড়ি (পশ্চিম)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7832,7 +7832,7 @@
    {
       "area_name":{
          "en":"Jatrabari Uttar  North (Part)",
-         "bn":""
+         "bn":"যাত্রাবাড়ি (উত্তর - আংশিক)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7840,8 +7840,8 @@
    },
    {
       "area_name":{
-         "en":"Dakshin Mir Hazirbagh",
-         "bn":""
+         "en":"Dakkhin Mir Hazirbagh",
+         "bn":"দক্ষিণ মির হাজিরবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7850,7 +7850,7 @@
    {
       "area_name":{
          "en":"Purba Dholairpar",
-         "bn":""
+         "bn":"পূর্ব ধোলাইপাড়"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7859,7 +7859,7 @@
    {
       "area_name":{
          "en":"Par Gendaria",
-         "bn":""
+         "bn":"পাড় গেন্ডারিয়া"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7868,7 +7868,7 @@
    {
       "area_name":{
          "en":"Paschim Dholairpar",
-         "bn":""
+         "bn":"পশ্চিম ধোলাইপাড়"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7877,7 +7877,7 @@
    {
       "area_name":{
          "en":"Uttar Mir Hazaribagh",
-         "bn":""
+         "bn":"উত্তর মির হাজারীবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7886,7 +7886,7 @@
    {
       "area_name":{
          "en":"Muradpur-1",
-         "bn":""
+         "bn":"মুরাদপুর-১"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7895,7 +7895,7 @@
    {
       "area_name":{
          "en":"Muradpur-2",
-         "bn":""
+         "bn":"মুরাদপুর-২"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7904,7 +7904,7 @@
    {
       "area_name":{
          "en":"Kusumbag Khamer Bari",
-         "bn":""
+         "bn":"কুসুমবাগ খামার (১ম অংশ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7913,7 +7913,7 @@
    {
       "area_name":{
          "en":"Nabarun School Area",
-         "bn":""
+         "bn":"নবারুণ স্কুল এলাকা"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7922,7 +7922,7 @@
    {
       "area_name":{
          "en":"Alinagar",
-         "bn":""
+         "bn":"আলিনগর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7931,7 +7931,7 @@
    {
       "area_name":{
          "en":"Amin Bagh",
-         "bn":""
+         "bn":"আমিন বাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7940,7 +7940,7 @@
    {
       "area_name":{
          "en":"Jaolahati",
-         "bn":""
+         "bn":"জাওলাহাটি"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7949,7 +7949,7 @@
    {
       "area_name":{
          "en":"Munshihati",
-         "bn":""
+         "bn":"মুন্সিহাটি"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7958,7 +7958,7 @@
    {
       "area_name":{
          "en":"Nowagaon",
-         "bn":""
+         "bn":"নোয়াগাও"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7967,7 +7967,7 @@
    {
       "area_name":{
          "en":"Takerhati",
-         "bn":""
+         "bn":"টাকেরহাটি"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7976,7 +7976,7 @@
    {
       "area_name":{
          "en":"Hasan Nagar",
-         "bn":""
+         "bn":"হাসান নগর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7985,7 +7985,7 @@
    {
       "area_name":{
          "en":"Hazrat Nagae",
-         "bn":""
+         "bn":"হযরত নাগায়"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -7994,7 +7994,7 @@
    {
       "area_name":{
          "en":"Nabinagar",
-         "bn":""
+         "bn":"নবীনগর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8003,7 +8003,7 @@
    {
       "area_name":{
          "en":"West Baragram",
-         "bn":""
+         "bn":"পশ্চিন বড়গ্রাম"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8012,7 +8012,7 @@
    {
       "area_name":{
          "en":"West Rasulpur",
-         "bn":""
+         "bn":"পশ্চিম রসূলপুর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8021,7 +8021,7 @@
    {
       "area_name":{
          "en":"Ashrafabad",
-         "bn":""
+         "bn":"আসরাফাবাদ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8030,7 +8030,7 @@
    {
       "area_name":{
          "en":"Islamnagar",
-         "bn":""
+         "bn":"ইসলামনগর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8039,7 +8039,7 @@
    {
       "area_name":{
          "en":"East Baragram",
-         "bn":""
+         "bn":"পূর্ব বড়গ্রাম"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8048,7 +8048,7 @@
    {
       "area_name":{
          "en":"East Rasulpur",
-         "bn":""
+         "bn":"পূর্ব রসূলপুর"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8057,7 +8057,7 @@
    {
       "area_name":{
          "en":"Mominbagh",
-         "bn":""
+         "bn":"মমিনবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8066,7 +8066,7 @@
    {
       "area_name":{
          "en":"Kazirbhag",
-         "bn":""
+         "bn":"কাজিরবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8075,7 +8075,7 @@
    {
       "area_name":{
          "en":"Maniknagar Purbo (East)",
-         "bn":""
+         "bn":"মানিকনগর (পূর্ব)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8084,7 +8084,7 @@
    {
       "area_name":{
          "en":"Maniknagar Dakkhin (South)",
-         "bn":""
+         "bn":"মানিকনগর (দক্ষিণ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8093,7 +8093,7 @@
    {
       "area_name":{
          "en":"Maniknagar Uttar (North)",
-         "bn":""
+         "bn":"মানিকনগর (উত্তর)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8102,7 +8102,7 @@
    {
       "area_name":{
          "en":"Miazan Lane",
-         "bn":""
+         "bn":"মিয়াজান লেন"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8111,7 +8111,7 @@
    {
       "area_name":{
          "en":"Kamlapur Dakkhin (South)",
-         "bn":""
+         "bn":"কমলাপুর (দক্ষিণ)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8120,7 +8120,7 @@
    {
       "area_name":{
          "en":"Gopibagh",
-         "bn":""
+         "bn":"গোপীবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8129,7 +8129,7 @@
    {
       "area_name":{
          "en":"Kamlapur Railway Station",
-         "bn":""
+         "bn":"কমলাপুর রেলওয়ে স্টেশন"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8138,7 +8138,7 @@
    {
       "area_name":{
          "en":"Kamlapur Railway Hospital",
-         "bn":""
+         "bn":"কমলাপুর রেলওয়ে হাসপাতাল"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8147,7 +8147,7 @@
    {
       "area_name":{
          "en":"Kamalapur Uttar (North)",
-         "bn":""
+         "bn":"কমলাপুর (উত্তর)"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8156,7 +8156,7 @@
    {
       "area_name":{
          "en":"Arambagh",
-         "bn":""
+         "bn":"আরামবাগ"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8165,7 +8165,7 @@
    {
       "area_name":{
          "en":"Bangabhaban",
-         "bn":""
+         "bn":"বঙ্গভবন"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8174,7 +8174,7 @@
    {
       "area_name":{
          "en":"Dilkusha C/A",
-         "bn":""
+         "bn":"দিলকুশা কমার্শিয়াল এলাকা"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8183,7 +8183,7 @@
    {
       "area_name":{
          "en":"Fakira Pool",
-         "bn":""
+         "bn":"ফকিরাপুল"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
@@ -8192,7 +8192,7 @@
    {
       "area_name":{
          "en":"Motijheel C/A",
-         "bn":""
+         "bn":"মতিঝিল বানিজ্যিক এলাকা"
       },
       "city_corporation":"Dhaka South City Corporation",
       "city_corp_tag":"DSCC",
