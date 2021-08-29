@@ -2,7 +2,7 @@
    {
       "area_name": {
          "en": "Uttara Model Town",
-         "bn": "উত্তরা মডলে টাউন"
+         "bn": "উত্তরা মডেল টাউন"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -1102,7 +1102,7 @@
    {
       "area_name": {
          "en": "Vashantek",
-         "bn": "ভাষানটেক।"
+         "bn": "ভাষানটেক"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2191,6 +2191,16 @@
    },
    {
       "area_name": {
+         "en": "Gojnobi Road",
+         "bn": "গজনবী রোড"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "32",
+      "id": "fa674ae-c6a8-cb31-4a4a-86ee2c7ca"
+   },
+   {
+      "area_name": {
          "en": "Kazi Nazrul Islam Road Block E",
          "bn": "কাজী নজরুল ইসলাম রোড ব্লক-ই"
       },
@@ -2252,7 +2262,7 @@
    {
       "area_name": {
          "en": "Lalmatia Block F",
-         "bn": "লালামাটিয়া ব্লক-এফ"
+         "bn": "লালমাটিয়া ব্লক-এফ"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2308,16 +2318,6 @@
       "city_corp_tag": "DNCC",
       "ward": "32",
       "id": "3540e0-a843-7b64-8ece-b3670b0e2f1e"
-   },
-   {
-      "area_name": {
-         "en": "Aurongojeb Road",
-         "bn": "আওরঙ্গজেব রোড"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "32",
-      "id": "d8c0a0d-8a42-3d5e-0d1f-b5c18e81eb6"
    },
    {
       "area_name": {
@@ -2672,7 +2672,7 @@
    {
       "area_name": {
          "en": "Dilu Road",
-         "bn": "দিলু রোড"
+         "bn": "দিলুরোড"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2681,7 +2681,7 @@
    },
    {
       "area_name": {
-         "en": "New Escaton Road",
+         "en": "New Eskaton Road",
          "bn": "নিউ ইস্কাটন রোড"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2838,16 +2838,6 @@
       "city_corp_tag": "DNCC",
       "ward": "37",
       "id": "0fcf22-a20-bfd-0272-34dee471585"
-   },
-   {
-      "area_name": {
-         "en": "Badda (Middle)",
-         "bn": "মধ্য বাড্ডা"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "37",
-      "id": "3f2cd64-2ae8-6cd1-a6cc-4a7af222a0c"
    },
    {
       "area_name": {
@@ -5072,7 +5062,7 @@
    {
       "area_name": {
          "en": "Crecent & North Road",
-         "bn": "ক্রিসেন্ট ও নর্থ রোড"
+         "bn": "ক্রিসেন্ট রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5096,7 +5086,7 @@
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
-      "ward": "16",
+      "ward": "18",
       "id": "03412d0-00-46-1b3-f4b541f7540"
    },
    {
@@ -5332,7 +5322,7 @@
    {
       "area_name": {
          "en": "Kakrail (Partial)",
-         "bn": "কাকরাইন (আংশিক)"
+         "bn": "কাকরাইল (আংশিক)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5491,8 +5481,8 @@
    },
    {
       "area_name": {
-         "en": "Segun Bagicha (Bijoynagar)",
-         "bn": "সেগুনবাগিচা (বিজয়নগর)"
+         "en": "Segun Bagicha",
+         "bn": "সেগুনবাগিচা"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -9111,123 +9101,113 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Circular Road",
+         "bn": "সার্কুলার রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "6f06586-1a7-cf08-0f5-411eb117e387"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Green Corner",
+         "bn": "গ্রীন কর্ণার"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "1d88d0-0067-7efd-e28d-81765ece1c1d"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Al Amin Road",
+         "bn": "আল আমিন রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "ccee46b-08ef-e41-efdb-a57176bf1c20"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "North Circular Road",
+         "bn": "নর্থ সার্কুলার রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "d1f3ed0-644e-8d7a-354e-6f24c43d6ec1"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Nilkhet",
+         "bn": "নীলক্ষেত"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "c7a0ac-0358-7676-b3d4-cb14d17bde"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Bangladesh Kuwait Moitro Hall",
+         "bn": "বাংলাদেশ কুয়েত মৈত্রী হল"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "67df503-3d6a-c1e-ae38-f8e73cbb7b8"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Govt Laboratory School",
+         "bn": "গভঃ ল্যাবরেটরী স্কুল"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "0fc08b8-2684-65fc-8ac7-fd5f38c5f4f8"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Secretariat Staff Quarter",
+         "bn": "সচিবালয় স্টাফ কোয়ার্টার"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
       "id": "2f0e86e-c63c-675a-a61f-1a86ad68013"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Dhaka University Residential Hall",
+         "bn": "ঢাকা বিশ্ববিদ্যালয় আবাসিক হল"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
       "id": "e4ca2e4-5e28-f707-6cdc-c4dcf4d2e668"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Bangladesh Bank Colony",
+         "bn": "বাংলাদেশ ব্যাংক কলোনী"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "8",
       "id": "2e17306-838d-b716-ce80-600a24f283b3"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Rajarbagh Police Line",
+         "bn": "রাজারবাগ পুলিশ হাসপাতাল"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "13",
       "id": "b20b05-bbf7-4cd1-aa50-885740d70be"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "fa674ae-c6a8-cb31-4a4a-86ee2c7ca"
    },
    {
       "area_name": {
