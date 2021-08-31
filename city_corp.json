@@ -1621,6 +1621,16 @@
    },
    {
       "area_name": {
+         "en": "Basundhara Residential Area",
+         "bn": "বসুন্ধরা আবাসিক এলাকা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "17",
+      "id": "6cd3fdb-d46f-05d7-7040-2d4d22a655f2"
+   },
+   {
+      "area_name": {
          "en": "Arjatpara",
          "bn": "আরজতপাড়া"
       },
@@ -9348,16 +9358,6 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "8ba47e-064a-6c8f-c60d-5abfac1ebcbf"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "6cd3fdb-d46f-05d7-7040-2d4d22a655f2"
    },
    {
       "area_name": {
