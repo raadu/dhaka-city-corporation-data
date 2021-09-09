@@ -1301,6 +1301,16 @@
    },
    {
       "area_name": {
+         "en": "Notun Bazar Bus Stand",
+         "bn": "নতুন বাজার বাস স্ট্যান্ড"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "18",
+      "id": "443bddc-3f2-46e2-22e4-cbd782c1b666"
+   },
+   {
+      "area_name": {
          "en": "Nodda",
          "bn": "নর্দ্দা"
       },
@@ -1618,6 +1628,16 @@
       "city_corp_tag": "DNCC",
       "ward": "25",
       "id": "6da5547-70c1-517a-b121-1f5307ea51d7"
+   },
+   {
+      "area_name": {
+         "en": "Nabisco Bus Stop",
+         "bn": "নাবিস্কো বাস স্টপ"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "25",
+      "id": "1be356-840d-28f-dc38-ce4ebfcfe5d"
    },
    {
       "area_name": {
@@ -2571,7 +2591,7 @@
    },
    {
       "area_name": {
-         "en": "Purbo Raja Bazar",
+         "en": "Purbo Raja Bazar (East)",
          "bn": "পূর্ব রাজাবাজার"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2581,7 +2601,7 @@
    },
    {
       "area_name": {
-         "en": "Poschim Raja Bazar",
+         "en": "Poschim Raja Bazar (West)",
          "bn": "পশ্চিম রাজাবাজার"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4211,6 +4231,26 @@
    },
    {
       "area_name": {
+         "en": "Gudaraghat",
+         "bn": "গুদারাঘাট"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "20",
+      "id": "b3caf38-1d0a-203f-a1dc-245a575ae8b"
+   },
+   {
+      "area_name": {
+         "en": "Brac University",
+         "bn": "ব্র্যাক বিশ্ববিদ্যালয়"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "20",
+      "id": "7d500ba-0024-a2d0-0caf-0d8dfc185c3e"
+   },
+   {
+      "area_name": {
          "en": "Chondalbhog",
          "bn": "চন্ডালভোগ"
       },
@@ -5378,6 +5418,16 @@
       "city_corp_tag": "DSCC",
       "ward": "19",
       "id": "aaa6d5a-0c0b-8e44-e783-0bd4fde83d24"
+   },
+   {
+      "area_name": {
+         "en": "Mouchak Market",
+         "bn": "মৌচাক মার্কেট"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "19",
+      "id": "26ca2c-66b-2c0-357e-a7e2a36b2dac"
    },
    {
       "area_name": {
@@ -9258,56 +9308,6 @@
       "city_corp_tag": "DSCC",
       "ward": "1",
       "id": "c2545bd-6a6a-db20-372e-ffe385f1d668"
-   },
-   {
-      "area_name": {
-         "en": "Gudaraghat",
-         "bn": "গুদারাঘাট"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "20",
-      "id": "b3caf38-1d0a-203f-a1dc-245a575ae8b"
-   },
-   {
-      "area_name": {
-         "en": "Brac University",
-         "bn": "ব্র্যাক বিশ্ববিদ্যালয়"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "20",
-      "id": "7d500ba-0024-a2d0-0caf-0d8dfc185c3e"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "26ca2c-66b-2c0-357e-a7e2a36b2dac"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "1be356-840d-28f-dc38-ce4ebfcfe5d"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "443bddc-3f2-46e2-22e4-cbd782c1b666"
    },
    {
       "area_name": {
