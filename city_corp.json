@@ -1631,6 +1631,16 @@
    },
    {
       "area_name": {
+         "en": "North South University",
+         "bn": "নর্থ সাউথ বিশ্ববিদ্যালয়"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "17",
+      "id": "d57f7fe-26b8-a51-bb3f-771eeeb5bb7"
+   },
+   {
+      "area_name": {
          "en": "Arjatpara",
          "bn": "আরজতপাড়া"
       },
@@ -2558,6 +2568,26 @@
       "city_corp_tag": "DNCC",
       "ward": "33",
       "id": "d53bf8-00b2-2c7d-5846-207bdb5c64"
+   },
+   {
+      "area_name": {
+         "en": "Purbo Raja Bazar",
+         "bn": "পূর্ব রাজাবাজার"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "27",
+      "id": "61686-3c2c-075-2ce-30af56ce58"
+   },
+   {
+      "area_name": {
+         "en": "Poschim Raja Bazar",
+         "bn": "পশ্চিম রাজাবাজার"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "27",
+      "id": "884ad83-766c-ffb-bfc5-d7c62eae08f7"
    },
    {
       "area_name": {
@@ -9221,63 +9251,33 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Khilgaon Block B",
+         "bn": "খিলগাও ব্লক-বি"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "61686-3c2c-075-2ce-30af56ce58"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "884ad83-766c-ffb-bfc5-d7c62eae08f7"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "1",
       "id": "c2545bd-6a6a-db20-372e-ffe385f1d668"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Gudaraghat",
+         "bn": "গুদারাঘাট"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
       "id": "b3caf38-1d0a-203f-a1dc-245a575ae8b"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Brac University",
+         "bn": "ব্র্যাক বিশ্ববিদ্যালয়"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
       "id": "7d500ba-0024-a2d0-0caf-0d8dfc185c3e"
-   },
-   {
-      "area_name": {
-         "en": "",
-         "bn": ""
-      },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
-      "id": "d57f7fe-26b8-a51-bb3f-771eeeb5bb7"
    },
    {
       "area_name": {
