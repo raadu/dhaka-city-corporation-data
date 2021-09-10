@@ -1,8 +1,8 @@
 [
    {
       "area_name": {
-         "en": "Uttara Model Town",
-         "bn": "উত্তরা মডেল টাউন"
+         "en": "Uttara Model Town (Sector 1 to 10)",
+         "bn": "উত্তরা মডেল টাউন (১ হতে ১০ নাম্বার সেক্টর)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -1202,7 +1202,7 @@
    {
       "area_name": {
          "en": "Joar Sahara",
-         "bn": "জোয়ারসাহারা"
+         "bn": "জোয়ারসাহারা"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -1258,6 +1258,16 @@
       "city_corp_tag": "DNCC",
       "ward": "17",
       "id": "5cca4b6-6a3-8c31-1eba-dfbce4e2add"
+   },
+   {
+      "area_name": {
+         "en": "Baridhara Residential Area",
+         "bn": "বারিধারা আবাসিক এলাকা"
+      },
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "18",
+      "id": "e0cd77b-fde8-28uw-7355-817eceea43a"
    },
    {
       "area_name": {
@@ -1441,23 +1451,13 @@
    },
    {
       "area_name": {
-         "en": "Merul Badda (East)",
-         "bn": "মেরুল বাড্ডা (পূর্ব)"
+         "en": "Merul Badda",
+         "bn": "মেরুল বাড্ডা"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
       "ward": "21",
       "id": "4a401a7-73b-a45e-0057-55ba7c4a884"
-   },
-   {
-      "area_name": {
-         "en": "Merul Badda (West)",
-         "bn": "মেরুল বাড্ডা (পশ্চিম)"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "21",
-      "id": "67a4c-4110-21fd-1f14-bccac7efa32"
    },
    {
       "area_name": {
@@ -1568,16 +1568,6 @@
       "city_corp_tag": "DNCC",
       "ward": "23",
       "id": "aaeeb31-88c0-23b-d0fb-1bc617b1a45"
-   },
-   {
-      "area_name": {
-         "en": "Malibagh",
-         "bn": "মালিবাগ"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "23",
-      "id": "f0ee771-bcf-1b35-c50d-a7acd113e7c"
    },
    {
       "area_name": {
@@ -2721,8 +2711,8 @@
    },
    {
       "area_name": {
-         "en": "Boro Moghbazar",
-         "bn": "বড় মগবাজার"
+         "en": "Boro Moghbazar (North)",
+         "bn": "বড় মগবাজার (উত্তর)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4851,16 +4841,6 @@
    },
    {
       "area_name": {
-         "en": "Shahjahanpur Dakkhin (South)",
-         "bn": "শাহজাহানপুর (দক্ষিণ)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "11",
-      "id": "2b71b3-e6c4-c53c-f3cc-37077b34455"
-   },
-   {
-      "area_name": {
          "en": "Khilgaon Bagicha",
          "bn": "খিলগাও বাগিচা"
       },
@@ -4891,8 +4871,8 @@
    },
    {
       "area_name": {
-         "en": "Shahjahanpur Uttar (South)",
-         "bn": "শাহজাহানপুর (উত্তর)"
+         "en": "Shahjahanpur",
+         "bn": "শাহজাহানপুর"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5061,7 +5041,7 @@
    },
    {
       "area_name": {
-         "en": "Dhanmondi R.A",
+         "en": "Dhanmondi R/A",
          "bn": "ধানমন্ডি আবাসিক এলাকা"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5141,13 +5121,23 @@
    },
    {
       "area_name": {
-         "en": "Crecent & North Road",
+         "en": "Crecent Road",
          "bn": "ক্রিসেন্ট রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
       "ward": "16",
       "id": "5ba1647-5ca0-bbbb-4f15-7abec233280"
+   },
+   {
+      "area_name": {
+         "en": "North Road",
+         "bn": "নর্থ রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
+      "id": "5ba1647-54a0-bbbb-9dT1-7abec233280"
    },
    {
       "area_name": {
@@ -5161,8 +5151,8 @@
    },
    {
       "area_name": {
-         "en": "Central Road (Part)",
-         "bn": "সেন্ট্রাল রোড (আংশিক)"
+         "en": "Central Road",
+         "bn": "সেন্ট্রাল রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5271,8 +5261,8 @@
    },
    {
       "area_name": {
-         "en": "Sukrabad (Partial)",
-         "bn": "শুক্রাবাদ (আংশিক)"
+         "en": "Sukrabad",
+         "bn": "শুক্রাবাদ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5371,8 +5361,8 @@
    },
    {
       "area_name": {
-         "en": "Boro Maghbazar",
-         "bn": "বড় মগবাজার"
+         "en": "Boro Maghbazar (South)",
+         "bn": "বড় মগবাজার (দক্ষিণ)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5431,13 +5421,33 @@
    },
    {
       "area_name": {
-         "en": "Ramna (Mintu & Baily Road)",
-         "bn": "রমনা (মিন্টূ রোড, বেইলী রোড)"
+         "en": "Ramna",
+         "bn": "রমনা"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
       "ward": "19",
       "id": "434b6d3-db3c-fde5-2568-0055411e6c7b"
+   },
+   {
+      "area_name": {
+         "en": "Mintu Road",
+         "bn": "মিন্টূ রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "19",
+      "id": "434b6d3-db3c-p0sr-8256-0055411e6c7b"
+   },
+   {
+      "area_name": {
+         "en": "Baily Road",
+         "bn": "বেইলী রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "19",
+      "id": "434b6d3-db3c-ow87-6249-0055411e6c7b"
    },
    {
       "area_name": {
@@ -9311,12 +9321,12 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Goran",
+         "bn": "গোড়ান"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "2",
       "id": "dce80bf-33d8-6a3-f34-5a0725a03cf"
    },
    {
@@ -9417,6 +9427,26 @@
       "city_corporation": "",
       "city_corp_tag": "",
       "ward": "",
+      "id": "67a4c-4110-21fd-1f14-bccac7efa32"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "f0ee771-bcf-1b35-c50d-a7acd113e7c"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
       "id": "4cc6dfc-3778-b31-ec7c-3bed5dbc362"
    },
    {
@@ -9438,5 +9468,15 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "aca3c3b-3be-a430-012-c3866773fbb"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "2b71b3-e6c4-c53c-f3cc-37077b34455"
    }
 ]
