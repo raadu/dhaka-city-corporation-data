@@ -9331,22 +9331,22 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Indira Road",
+         "bn": "ইন্দিরা রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "27",
       "id": "0142fa-e0d-cb5f-7d1d-f66d268e2dc"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Shere Bangla Nagar",
+         "bn": "শের-ই-বাংলা নগর"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "27",
       "id": "f08fe33-a14a-36f7-06a-ba3edaec7b"
    },
    {
