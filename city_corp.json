@@ -9351,22 +9351,22 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Farmgate",
+         "bn": "ফার্মগেট"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "26",
       "id": "45bc32e-6b0-e511-5d5a-7f086a417bc"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Kazi Nazrul Islam Avenue",
+         "bn": "কাজী নজরুল ইসলাম এভিনিউ"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "26",
       "id": "8ba47e-064a-6c8f-c60d-5abfac1ebcbf"
    },
    {
