@@ -41,8 +41,8 @@
    },
    {
       "area_name": {
-         "en": "Faidabad",
-         "bn": "ফায়দাবাদ"
+         "en": "Faidabad / Faydabad (Part - 1)",
+         "bn": "ফায়দাবাদ (আংশিক - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -71,8 +71,8 @@
    },
    {
       "area_name": {
-         "en": "Ranavola",
-         "bn": "রানাভোলা"
+         "en": "Ranavola (Part - 1)",
+         "bn": "রানাভোলা (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -411,7 +411,7 @@
    },
    {
       "area_name": {
-         "en": "Duaripara",
+         "en": "Duaripara / Duyari Para",
          "bn": "দুয়ারীপাড়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1101,7 +1101,7 @@
    },
    {
       "area_name": {
-         "en": "Vashantek",
+         "en": "Vashantek / Bhashantek",
          "bn": "ভাষানটেক"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1331,8 +1331,8 @@
    },
    {
       "area_name": {
-         "en": "Shahzadpur",
-         "bn": "শাহাজাদপুর"
+         "en": "Shahzadpur / Shahjadpur",
+         "bn": "শাহাজাদপুর (ক, খ ও গ)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -3811,16 +3811,6 @@
    },
    {
       "area_name": {
-         "en": "Faydabad",
-         "bn": "ফায়দাবাদ"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "47",
-      "id": "1aa3f00-e72-d8a4-7aa0-c58dea883e36"
-   },
-   {
-      "area_name": {
          "en": "Kotbari",
          "bn": "কোটবাড়ী"
       },
@@ -3851,8 +3841,8 @@
    },
    {
       "area_name": {
-         "en": "Dokkhinkhan",
-         "bn": "দক্ষিণখান"
+         "en": "Dokkhinkhan / Dakkhin Khan (Part - 2)",
+         "bn": "দক্ষিণখান (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4031,8 +4021,8 @@
    },
    {
       "area_name": {
-         "en": "Baunia (Half)",
-         "bn": "বাউনিয়া (আংশিক)"
+         "en": "Baunia (Part - 2)",
+         "bn": "বাউনিয়া (আংশিক - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4251,8 +4241,8 @@
    },
    {
       "area_name": {
-         "en": "Ranabhola (Partial)",
-         "bn": "রানাভোলা (আংশিক)"
+         "en": "Ranavola (Part - 2)",
+         "bn": "রানাভোলা (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -9361,32 +9351,32 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Faidabad / Faydabad (Part - 2)",
+         "bn": "ফায়দাবাদ (আংশিক - ২)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "47",
       "id": "8ba47e-064a-6c8f-c60d-5abfac1ebcbf"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Baunia (Part - 1)",
+         "bn": "বাউনিয়া (আংশিক - ১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1",
       "id": "0502446-8e-4230-0f5-11c1181b7b8b"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Dokkhinkhan / Dakkhin Khan (Part - 1)",
+         "bn": "দক্ষিণখান (পার্ট - ১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1",
       "id": "13578e8-2241-bcb4-815-443d0be706"
    },
    {
@@ -9478,5 +9468,15 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "2b71b3-e6c4-c53c-f3cc-37077b34455"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "1aa3f00-e72-d8a4-7aa0-c58dea883e36"
    }
 ]
