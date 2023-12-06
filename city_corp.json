@@ -911,8 +911,8 @@
    },
    {
       "area_name": {
-         "en": "Borobagh",
-         "bn": "বড়বাগ"
+         "en": "Borobagh (Part - 1)",
+         "bn": "বড়বাগ (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2861,7 +2861,7 @@
    },
    {
       "area_name": {
-         "en": "Shona Katra",
+         "en": "Shona Katra / Sona Katra",
          "bn": "সোনা কাটরা"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2881,8 +2881,8 @@
    },
    {
       "area_name": {
-         "en": "Mollapara",
-         "bn": "মোল্লাপাড়া"
+         "en": "Mollapara (Part - 1)",
+         "bn": "মোল্লাপাড়া (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2931,8 +2931,8 @@
    },
    {
       "area_name": {
-         "en": "Mollapara",
-         "bn": "মোল্লাপাড়া"
+         "en": "Mollapara (Part - 2)",
+         "bn": "মোল্লাপাড়া (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2951,7 +2951,7 @@
    },
    {
       "area_name": {
-         "en": "Purbopara (North Badda)",
+         "en": "Purbopara (North / Uttar Badda)",
          "bn": "পূর্বপাড়া (উত্তর বাড্ডা)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2961,7 +2961,7 @@
    },
    {
       "area_name": {
-         "en": "Moynartek (North Badda)",
+         "en": "Moynartek (North / Uttar Badda)",
          "bn": "ময়নারটেক (উত্তর বাড্ডা)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2971,7 +2971,7 @@
    },
    {
       "area_name": {
-         "en": "Bauwalipara",
+         "en": "Bauwali Para / Bawali Para",
          "bn": "বাওয়ালীপাড়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3001,7 +3001,7 @@
    },
    {
       "area_name": {
-         "en": "Hazipara (North Badda)",
+         "en": "Hazipara (North / Uttar Badda)",
          "bn": "হাজীপাড়া (উত্তর বাড্ডা)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3011,7 +3011,7 @@
    },
    {
       "area_name": {
-         "en": "Nurerchala (West)",
+         "en": "Nurerchala (West / Poschim)",
          "bn": "নূরেরচালা (পশ্চিম)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3021,7 +3021,7 @@
    },
    {
       "area_name": {
-         "en": "Nurerchala (East)",
+         "en": "Nurerchala (East / Purbo)",
          "bn": "নূরেরচালা পূর্ব"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3031,7 +3031,7 @@
    },
    {
       "area_name": {
-         "en": "Khilbarirtek (West)",
+         "en": "Khilbarirtek (West / Poschim)",
          "bn": "খিলবাড়িরটেক (পশ্চিম)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3041,7 +3041,7 @@
    },
    {
       "area_name": {
-         "en": "Khilbarirtek (East)",
+         "en": "Khilbarirtek (East / Purbo)",
          "bn": "খিলবাড়িরটেক পূর্ব"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3051,7 +3051,7 @@
    },
    {
       "area_name": {
-         "en": "Vatara",
+         "en": "Vatara / Bhatara",
          "bn": "ভাটারা"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3071,7 +3071,7 @@
    },
    {
       "area_name": {
-         "en": "Noyanogor (North)",
+         "en": "Noyanogor (North / Uttar)",
          "bn": "নয়ানগর (উত্তর)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3081,7 +3081,7 @@
    },
    {
       "area_name": {
-         "en": "Noyanogor (South)",
+         "en": "Noyanogor (South / Dokkhin)",
          "bn": "নয়ানগর দক্ষিণ"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3101,7 +3101,7 @@
    },
    {
       "area_name": {
-         "en": "Dokkhinpara",
+         "en": "Dokkhin Para",
          "bn": "দক্ষিণপাড়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3121,7 +3121,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarpara (West Side)",
+         "en": "Uttarpara (West / Poschim Side)",
          "bn": "উত্তরপাড়া (পশ্চিমাংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3131,7 +3131,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarpara (East Side)",
+         "en": "Uttarpara (East / Purbo Side)",
          "bn": "উত্তরপাড়া (পূর্বাংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3171,7 +3171,7 @@
    },
    {
       "area_name": {
-         "en": "Padardiya (East)",
+         "en": "Padardiya / Podordia  (East / Purbo)",
          "bn": "পদরদিয়া (পূর্ব)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3181,7 +3181,7 @@
    },
    {
       "area_name": {
-         "en": "Padardiya (West)",
+         "en": "Padardiya / Podordia (West / Poschim)",
          "bn": "পদরদিয়া (পশ্চিম)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3341,7 +3341,7 @@
    },
    {
       "area_name": {
-         "en": "Talna",
+         "en": "Talna / Tolna",
          "bn": "তলনা"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3381,7 +3381,7 @@
    },
    {
       "area_name": {
-         "en": "Mastul",
+         "en": "Mostul / Mastul",
          "bn": "মস্তুল"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3431,7 +3431,7 @@
    },
    {
       "area_name": {
-         "en": "Amadia",
+         "en": "Amdia",
          "bn": "আমদিয়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3491,7 +3491,7 @@
    },
    {
       "area_name": {
-         "en": "Bhaturia",
+         "en": "Bhaturia / Vaturia",
          "bn": "ভাটুরিয়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3601,7 +3601,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarkhan (South Side)",
+         "en": "Uttarkhan (South / Dokkhin Side)",
          "bn": "উত্তরখান (দক্ষিণ অংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3611,7 +3611,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarkhan (North Side)",
+         "en": "Uttarkhan (North / Uttar Side)",
          "bn": "উত্তরখান (উত্তর অংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3631,8 +3631,8 @@
    },
    {
       "area_name": {
-         "en": "Borobagh",
-         "bn": "বড়বাগ"
+         "en": "Borobagh (Part - 2)",
+         "bn": "বড়বাগ (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -3781,7 +3781,7 @@
    },
    {
       "area_name": {
-         "en": "Shawrartek",
+         "en": "Shawrartek / Saurartek",
          "bn": "সাওরারটেক"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3891,8 +3891,8 @@
    },
    {
       "area_name": {
-         "en": "Kawla",
-         "bn": "কাওলার"
+         "en": "Kawla / Kaula",
+         "bn": "কাওলা / কাওলার"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -3941,7 +3941,7 @@
    },
    {
       "area_name": {
-         "en": "Azompur",
+         "en": "Azampur / Azompur",
          "bn": "আজমপুর"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4301,8 +4301,8 @@
    },
    {
       "area_name": {
-         "en": "Rajabari / Razabari",
-         "bn": "রাজাবাড়ী"
+         "en": "Rajabari / Razabari (Part - 2)",
+         "bn": "রাজাবাড়ী (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -9361,12 +9361,12 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Rajabari / Razabari (Part - 1)",
+         "bn": "রাজাবাড়ী (পার্ট - ১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "46",
       "id": "b34c517-aaed-cee6-8726-457ea71b5a18"
    },
    {
