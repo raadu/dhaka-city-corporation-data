@@ -4981,8 +4981,8 @@
    },
    {
       "area_name": {
-         "en": "Afsaruddin Road",
-         "bn": "আফসারউদ্দিন রোড"
+         "en": "Hazi Afsaruddin Road",
+         "bn": "হাজী আফসারউদ্দিন রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5011,8 +5011,8 @@
    },
    {
       "area_name": {
-         "en": "Hatembagh Road",
-         "bn": "হাতেমবাগ রোড"
+         "en": "Hatembagh",
+         "bn": "হাতেমবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5091,8 +5091,8 @@
    },
    {
       "area_name": {
-         "en": "Free School Street",
-         "bn": "ফ্রি স্কুল স্ট্রিট"
+         "en": "Free School Street Kathalbagan",
+         "bn": "ফ্রি স্কুল স্ট্রিট কাঁঠালবাগান"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5211,7 +5211,7 @@
    },
    {
       "area_name": {
-         "en": "Sukrabad",
+         "en": "Sukrabad / Shukrabad",
          "bn": "শুক্রাবাদ"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5221,7 +5221,7 @@
    },
    {
       "area_name": {
-         "en": "Tallabagh",
+         "en": "Tallabagh / Tollabagh",
          "bn": "তল্লাবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5241,8 +5241,8 @@
    },
    {
       "area_name": {
-         "en": "BGB Camp (Pilkhana)",
-         "bn": "বিজিবি ক্যাম্প (পিলখানা)"
+         "en": "BGB / BDR Camp (Pilkhana)",
+         "bn": "বিজিবি / বিডিআর ক্যাম্প (পিলখানা)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5261,7 +5261,7 @@
    },
    {
       "area_name": {
-         "en": "Elephant Road",
+         "en": "Elephant Road / New Elephant Road",
          "bn": "এলিফ্যান্ট রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -9371,92 +9371,92 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Green Square (Green Road)",
+         "bn": "গ্রীন স্কয়ার (গ্রীন রোড)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "67a4c-4110-21fd-1f14-bccac7efa32"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Green Road (East / Purbo)",
+         "bn": "গ্রীন রোড (পূর্ব)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "f0ee771-bcf-1b35-c50d-a7acd113e7c"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "West And Street (West Street)",
+         "bn": "ওয়েস্ট এন্ড স্ট্রিট (ওয়েস্ট স্ট্রিট)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "4cc6dfc-3778-b31-ec7c-3bed5dbc362"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Boshir Uddin Road / Bashir Uddin Road",
+         "bn": "বশীর উদ্দিন রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "17",
       "id": "2e45c7d-105f-4715-ab75-b7005ad232a5"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Institute of Social Welfare and Research",
+         "bn": "সমাজকল্যাণ ও গবেষণা ইনস্টিটিউট"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "aca3c3b-3be-a430-012-c3866773fbb"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Rahim Square",
+         "bn": "রহিম স্কয়ার"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "2b71b3-e6c4-c53c-f3cc-37077b34455"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "NAEM Road",
+         "bn": "নাইম / নায়েম রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "1aa3f00-e72-d8a4-7aa0-c58dea883e36"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "College Street",
+         "bn": "কলেজ স্ট্রিট / কলেজ রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "380412b-51e7-6cc5-ed85-20d6e13e144d"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Teachers Training College / T T College",
+         "bn": "সরকারি টিচার্স ট্রেনিং কলেজ / টিটি কলেজ"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "b8a264-d6ea-8d8b-41c7-145273dc4a4"
    },
    {
