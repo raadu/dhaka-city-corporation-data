@@ -4601,8 +4601,8 @@
    },
    {
       "area_name": {
-         "en": "Siddeswary (Part-2)",
-         "bn": "সিদ্ধেস্বরী (২য় অংশ)"
+         "en": "Siddeswary",
+         "bn": "সিদ্ধেস্বরী"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5301,8 +5301,8 @@
    },
    {
       "area_name": {
-         "en": "Baje Kakrail",
-         "bn": "বাজে কাকরাইল"
+         "en": "Kakrail",
+         "bn": "কাকরাইল"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5321,8 +5321,8 @@
    },
    {
       "area_name": {
-         "en": "Circuit House",
-         "bn": "সার্কিট হাউজ"
+         "en": "Circuit House Road",
+         "bn": "সার্কিট হাউজ রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5338,16 +5338,6 @@
       "city_corp_tag": "DSCC",
       "ward": "19",
       "id": "7f167-b5f1-5b66-2481-8ab1f41f"
-   },
-   {
-      "area_name": {
-         "en": "Kakrail (Partial)",
-         "bn": "কাকরাইল (আংশিক)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "19",
-      "id": "3c14f26-00f2-56d0-7c15-f120c10c432"
    },
    {
       "area_name": {
@@ -5381,7 +5371,7 @@
    },
    {
       "area_name": {
-         "en": "Mintu Road",
+         "en": "Mintu Road / Minto Road",
          "bn": "মিন্টূ রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5491,8 +5481,8 @@
    },
    {
       "area_name": {
-         "en": "Fulbaria (Part - 1)",
-         "bn": "ফুলবাড়িয়া (পার্ট - ২)"
+         "en": "Fulbaria Station Purbo/East Area",
+         "bn": "ফুলবাড়িয়া স্টেশন পূর্ব এরিয়া"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -9461,13 +9451,143 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Aminabad Colony",
+         "bn": "আমিনাবাদ কলোনী / আমিনাবাদ কলনি"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "19",
       "id": "8ed6fe-70c2-351-8ad2-e70df04f41f6"
+   },
+   {
+      "area_name": {
+         "en": "Eastern Housing Apartment",
+         "bn": "ইস্টার্ন হাউজিং অ্যাপার্টমেন্ট "
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "19",
+      "id": "7b87d0e-5162-01e4-581-d2c2235ef52"
+   },
+   {
+      "area_name": {
+         "en": "Bangabandhu Avenue",
+         "bn": "বঙ্গবন্ধু এভিনিউ"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "3c14f26-00f2-56d0-7c15-f120c10c432"
+   },
+   {
+      "area_name": {
+         "en": "Secretariat Road",
+         "bn": "সচিবালয় রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "8a243e9a-24c2-4a45-9a86-4b4712ebc721"
+   },
+   {
+      "area_name": {
+         "en": "Abdul Gani Road",
+         "bn": "আব্দুল গনি সড়ক"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "05f13e25-1b20-4b06-aa3a-267f5d61a7a5"
+   },
+   {
+      "area_name": {
+         "en": "Toyenbee Circular Road",
+         "bn": "টয়েনবি সার্কুলার রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "b64a059f-198c-4ee0-b6b8-52e4e72c6dd2"
+   },
+   {
+      "area_name": {
+         "en": "Bangladesh University of Engineering and Technology (BUET)",
+         "bn": "বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয় (বুয়েট)"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "fc8da9b0-0a4b-48d6-8f1d-8f3b2c2b74a7"
+   },
+   {
+      "area_name": {
+         "en": "Mymensingh Road",
+         "bn": "ময়মনসিংহ রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "d07b8b7b-2c3e-434b-a6e2-6ec6d9e11615"
+   },
+   {
+      "area_name": {
+         "en": "Mymensingh Lane",
+         "bn": "ময়মনসিংহ লেন"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "60d72d20-d0e1-4e2b-b8fc-7870cc5da1bb"
+   },
+   {
+      "area_name": {
+         "en": "PG Hospital / BSMMU",
+         "bn": "পিজি হাসপাতাল"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "245e1175-b29d-4c1a-ae46-c6a924422c39"
+   },
+   {
+      "area_name": {
+         "en": "National Museum Staff Quarter",
+         "bn": " জাতীয় জাদুঘর স্টাফ কোয়ার্টার"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "f6a01a65-8ba7-4995-96c2-c0a727465b4c"
+   },
+   {
+      "area_name": {
+         "en": "Public Library (Sufia Kamal National Public Library)",
+         "bn": "পাবলিক লাইব্রেরী (সুফিয়া কামাল জাতীয় পাবলিক লাইব্রেরী)"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "0e49388f-602d-4ce3-91a0-3f9b41b5b0b1"
+   },
+   {
+      "area_name": {
+         "en": "Habibullah Road",
+         "bn": "হাবিবুল্লাহ রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "cf7d3dd7-7480-4ed4-9aa2-9f424b719f15"
+   },
+   {
+      "area_name": {
+         "en": "Poribagh Shah Shaheb Road",
+         "bn": "পরীবাগ শাহ সাহেব রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "858362b2-07f5-4a1b-9c6d-981bf758fa1c"
    },
    {
       "area_name": {
@@ -9477,6 +9597,86 @@
       "city_corporation": "",
       "city_corp_tag": "",
       "ward": "",
-      "id": "7b87d0e-5162-01e4-581-d2c2235ef52"
+      "id": "2a94e4ec-5824-4f69-8e3a-5032b38557c8"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "6215e4fd-4b2a-4fe2-9a2a-83a39ed961bd"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "b68a1c2d-7b20-45c1-b96a-537e5d5cb1e1"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "a49b295c-7d80-4cfc-9b34-8f59357c606c"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "6eb27b36-89c5-4d43-8a49-8c48163aa0bf"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "ac04e325-480c-484c-9c02-d6ef73a58a43"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "eaad9818-51c3-42c2-a654-1d6f59f7e6de"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "25a095d4-9e4d-4010-82c8-3b1e4d8e5e5d"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "f9a68048-9c9f-47a5-a8c8-cf0c7a9f9672"
    }
 ]
