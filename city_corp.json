@@ -41,8 +41,8 @@
    },
    {
       "area_name": {
-         "en": "Faidabad",
-         "bn": "ফায়দাবাদ"
+         "en": "Faidabad / Faydabad (Part - 1)",
+         "bn": "ফায়দাবাদ (আংশিক - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -71,8 +71,8 @@
    },
    {
       "area_name": {
-         "en": "Ranavola",
-         "bn": "রানাভোলা"
+         "en": "Ranavola (Part - 1)",
+         "bn": "রানাভোলা (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -411,7 +411,7 @@
    },
    {
       "area_name": {
-         "en": "Duaripara",
+         "en": "Duaripara / Duyari Para",
          "bn": "দুয়ারীপাড়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -751,7 +751,7 @@
    },
    {
       "area_name": {
-         "en": "Suipar Colony",
+         "en": "Suipar / Sweeper Colony",
          "bn": "সুইপার কলোনী"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -781,7 +781,7 @@
    },
    {
       "area_name": {
-         "en": "Mazar Road",
+         "en": "Mazar / Majar Road",
          "bn": "মাজার রোড"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -871,7 +871,7 @@
    },
    {
       "area_name": {
-         "en": "Ahmed Nogor",
+         "en": "Ahmed Nogor / Ahammed Nagar",
          "bn": "আহম্মদনগর"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -901,7 +901,7 @@
    },
    {
       "area_name": {
-         "en": "Tolarbagh",
+         "en": "Tolarbagh / Tollarbagh",
          "bn": "টোলারবাগ"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -911,8 +911,8 @@
    },
    {
       "area_name": {
-         "en": "Borobagh",
-         "bn": "বড়বাগ"
+         "en": "Borobagh (Part - 1)",
+         "bn": "বড়বাগ (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -941,7 +941,7 @@
    },
    {
       "area_name": {
-         "en": "Shewrapara (West Shewrapara)",
+         "en": "Shewrapara (West / Poschim Shewrapara)",
          "bn": "শেওড়াপাড়া (পশ্চিম শেওড়াপাড়া)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -951,7 +951,7 @@
    },
    {
       "area_name": {
-         "en": "Shewrapara (Middle Shewrapara)",
+         "en": "Shewrapara (Middle / Moddho Shewrapara)",
          "bn": "শেওড়াপাড়া (মধ্য শেওড়াপাড়া)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -991,7 +991,7 @@
    },
    {
       "area_name": {
-         "en": "Kazipara (West Kazipara)",
+         "en": "Kazipara (West / Poschim Kazipara)",
          "bn": "কাজীপাড়া (পশ্চিম কাজীপাড়া)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1001,7 +1001,7 @@
    },
    {
       "area_name": {
-         "en": "Kazipara (East Kazipara)",
+         "en": "Kazipara (East / Purbo Kazipara)",
          "bn": "কাজীপাড়া (র্পূব কাজীপাড়া)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1011,7 +1011,7 @@
    },
    {
       "area_name": {
-         "en": "Shewrapara (East Shewrapara)",
+         "en": "Shewrapara (East / Purbo Shewrapara)",
          "bn": "শেওড়াপাড়া (র্পূব শেওড়াপাড়া)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1101,7 +1101,7 @@
    },
    {
       "area_name": {
-         "en": "Vashantek",
+         "en": "Vashantek / Bhashantek",
          "bn": "ভাষানটেক"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1121,7 +1121,7 @@
    },
    {
       "area_name": {
-         "en": "Kafrul (North Kafrul)",
+         "en": "Kafrul (North / Uttar Kafrul)",
          "bn": "কাফরুল (উত্তর কাফরুল)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1131,7 +1131,7 @@
    },
    {
       "area_name": {
-         "en": "Kafrul (South Kafrul)",
+         "en": "Kafrul (South / Dokkhin Kafrul)",
          "bn": "কাফরুল (দক্ষিণ কাফরুল)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1141,7 +1141,7 @@
    },
    {
       "area_name": {
-         "en": "Kafrul (West Kafrul)",
+         "en": "Kafrul (West / Poschim Kafrul)",
          "bn": "কাফরুল (পশ্চিম কাফরুল)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1331,8 +1331,8 @@
    },
    {
       "area_name": {
-         "en": "Shahzadpur",
-         "bn": "শাহাজাদপুর"
+         "en": "Shahzadpur / Shahjadpur",
+         "bn": "শাহাজাদপুর (ক, খ ও গ)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -1711,7 +1711,7 @@
    },
    {
       "area_name": {
-         "en": "Tejturi Bazar (East)",
+         "en": "Tejturi Bazar (East / Purbo)",
          "bn": "তেজতুরী বাজার (পূর্ব)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1721,7 +1721,7 @@
    },
    {
       "area_name": {
-         "en": "Tejturi Bazar (West)",
+         "en": "Tejturi Bazar (West / Poschim)",
          "bn": "তেজতুরী বাজার (পশ্চিম)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -1891,7 +1891,7 @@
    },
    {
       "area_name": {
-         "en": "Co-operative Housing Society",
+         "en": "Co Operative Housing Society",
          "bn": "কো-অপারেটিভ হাউজিং সোসাইটি"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2001,7 +2001,7 @@
    },
    {
       "area_name": {
-         "en": "Adabor (North)",
+         "en": "Adabor (North / Uttar)",
          "bn": "আদাবর (উত্তর)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2031,7 +2031,7 @@
    },
    {
       "area_name": {
-         "en": "Rafiq Housing",
+         "en": "Rafiq / Rofiq Housing",
          "bn": "রফিক হাউজিং"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2041,7 +2041,7 @@
    },
    {
       "area_name": {
-         "en": "Munsurabad Housing",
+         "en": "Munsurabad Housing / Monsurabad",
          "bn": "মুনসুরাবাদ হাউজিং"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2051,7 +2051,7 @@
    },
    {
       "area_name": {
-         "en": "Shunibir Housing",
+         "en": "Shunibir Housing / Sunibir",
          "bn": "সুনিবিড় হাউজিং"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2141,7 +2141,7 @@
    },
    {
       "area_name": {
-         "en": "Azam Road",
+         "en": "Azam / Azom Road",
          "bn": "আজম রোড"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2151,8 +2151,8 @@
    },
    {
       "area_name": {
-         "en": "Asad Avenue",
-         "bn": "আসাদ এভিনিউ"
+         "en": "Asad Avenue / Asadgate",
+         "bn": "আসাদ এভিনিউ / আসাদগেট"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2161,7 +2161,7 @@
    },
    {
       "area_name": {
-         "en": "Razia Sultana Road",
+         "en": "Razia / Rajia Sultana Road",
          "bn": "রাজিয়া সুলতানা রোড়"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2201,7 +2201,7 @@
    },
    {
       "area_name": {
-         "en": "Zakir Hossain Road",
+         "en": "Zakir / Jakir Hossain Road",
          "bn": "জাকির হোসেন রোড"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2402,7 +2402,7 @@
    {
       "area_name": {
          "en": "Bashbari",
-         "bn": "বাশবাড়ী"
+         "bn": "বাশবাড়ী / বাঁশ বাড়ী"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2621,7 +2621,7 @@
    },
    {
       "area_name": {
-         "en": "Latif Real Estate",
+         "en": "Latif / Lotif Real Estate",
          "bn": "লতিফ রিয়েল এস্টেট"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2638,16 +2638,6 @@
       "city_corp_tag": "DNCC",
       "ward": "33",
       "id": "d324bee-ad14-ed51-d687-3a8a68806af"
-   },
-   {
-      "area_name": {
-         "en": "Bashbari",
-         "bn": "বাঁশ বাড়ী"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "33",
-      "id": "380412b-51e7-6cc5-ed85-20d6e13e144d"
    },
    {
       "area_name": {
@@ -2691,7 +2681,7 @@
    },
    {
       "area_name": {
-         "en": "Jafrabad",
+         "en": "Jafrabad / Jaforabad",
          "bn": "জাফরাবাদ"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2871,7 +2861,7 @@
    },
    {
       "area_name": {
-         "en": "Shona Katra",
+         "en": "Shona Katra / Sona Katra",
          "bn": "সোনা কাটরা"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2891,8 +2881,8 @@
    },
    {
       "area_name": {
-         "en": "Mollapara",
-         "bn": "মোল্লাপাড়া"
+         "en": "Mollapara (Part - 1)",
+         "bn": "মোল্লাপাড়া (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2941,8 +2931,8 @@
    },
    {
       "area_name": {
-         "en": "Mollapara",
-         "bn": "মোল্লাপাড়া"
+         "en": "Mollapara (Part - 2)",
+         "bn": "মোল্লাপাড়া (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -2961,7 +2951,7 @@
    },
    {
       "area_name": {
-         "en": "Purbopara (North Badda)",
+         "en": "Purbopara (North / Uttar Badda)",
          "bn": "পূর্বপাড়া (উত্তর বাড্ডা)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2971,7 +2961,7 @@
    },
    {
       "area_name": {
-         "en": "Moynartek (North Badda)",
+         "en": "Moynartek (North / Uttar Badda)",
          "bn": "ময়নারটেক (উত্তর বাড্ডা)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -2981,7 +2971,7 @@
    },
    {
       "area_name": {
-         "en": "Bauwalipara",
+         "en": "Bauwali Para / Bawali Para",
          "bn": "বাওয়ালীপাড়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3011,7 +3001,7 @@
    },
    {
       "area_name": {
-         "en": "Hazipara (North Badda)",
+         "en": "Hazipara (North / Uttar Badda)",
          "bn": "হাজীপাড়া (উত্তর বাড্ডা)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3021,7 +3011,7 @@
    },
    {
       "area_name": {
-         "en": "Nurerchala (West)",
+         "en": "Nurerchala (West / Poschim)",
          "bn": "নূরেরচালা (পশ্চিম)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3031,7 +3021,7 @@
    },
    {
       "area_name": {
-         "en": "Nurerchala (East)",
+         "en": "Nurerchala (East / Purbo)",
          "bn": "নূরেরচালা পূর্ব"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3041,7 +3031,7 @@
    },
    {
       "area_name": {
-         "en": "Khilbarirtek (West)",
+         "en": "Khilbarirtek (West / Poschim)",
          "bn": "খিলবাড়িরটেক (পশ্চিম)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3051,7 +3041,7 @@
    },
    {
       "area_name": {
-         "en": "Khilbarirtek (East)",
+         "en": "Khilbarirtek (East / Purbo)",
          "bn": "খিলবাড়িরটেক পূর্ব"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3061,7 +3051,7 @@
    },
    {
       "area_name": {
-         "en": "Vatara",
+         "en": "Vatara / Bhatara",
          "bn": "ভাটারা"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3081,7 +3071,7 @@
    },
    {
       "area_name": {
-         "en": "Noyanogor (North)",
+         "en": "Noyanogor (North / Uttar)",
          "bn": "নয়ানগর (উত্তর)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3091,7 +3081,7 @@
    },
    {
       "area_name": {
-         "en": "Noyanogor (South)",
+         "en": "Noyanogor (South / Dokkhin)",
          "bn": "নয়ানগর দক্ষিণ"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3111,7 +3101,7 @@
    },
    {
       "area_name": {
-         "en": "Dokkhinpara",
+         "en": "Dokkhin Para",
          "bn": "দক্ষিণপাড়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3131,7 +3121,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarpara (West Side)",
+         "en": "Uttarpara (West / Poschim Side)",
          "bn": "উত্তরপাড়া (পশ্চিমাংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3141,7 +3131,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarpara (East Side)",
+         "en": "Uttarpara (East / Purbo Side)",
          "bn": "উত্তরপাড়া (পূর্বাংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3181,7 +3171,7 @@
    },
    {
       "area_name": {
-         "en": "Padardiya (East)",
+         "en": "Padardiya / Podordia  (East / Purbo)",
          "bn": "পদরদিয়া (পূর্ব)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3191,7 +3181,7 @@
    },
    {
       "area_name": {
-         "en": "Padardiya (West)",
+         "en": "Padardiya / Podordia (West / Poschim)",
          "bn": "পদরদিয়া (পশ্চিম)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3351,7 +3341,7 @@
    },
    {
       "area_name": {
-         "en": "Talna",
+         "en": "Talna / Tolna",
          "bn": "তলনা"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3391,7 +3381,7 @@
    },
    {
       "area_name": {
-         "en": "Mastul",
+         "en": "Mostul / Mastul",
          "bn": "মস্তুল"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3441,7 +3431,7 @@
    },
    {
       "area_name": {
-         "en": "Amadia",
+         "en": "Amdia",
          "bn": "আমদিয়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3501,7 +3491,7 @@
    },
    {
       "area_name": {
-         "en": "Bhaturia",
+         "en": "Bhaturia / Vaturia",
          "bn": "ভাটুরিয়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3611,7 +3601,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarkhan (South Side)",
+         "en": "Uttarkhan (South / Dokkhin Side)",
          "bn": "উত্তরখান (দক্ষিণ অংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3621,7 +3611,7 @@
    },
    {
       "area_name": {
-         "en": "Uttarkhan (North Side)",
+         "en": "Uttarkhan (North / Uttar Side)",
          "bn": "উত্তরখান (উত্তর অংশ)"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3641,8 +3631,8 @@
    },
    {
       "area_name": {
-         "en": "Borobagh",
-         "bn": "বড়বাগ"
+         "en": "Borobagh (Part - 2)",
+         "bn": "বড়বাগ (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -3691,8 +3681,8 @@
    },
    {
       "area_name": {
-         "en": "Bhatulia",
-         "bn": "ভাটুলিয়া"
+         "en": "Bhatulia / Vatulia (Part - 1)",
+         "bn": "ভাটুলিয়া (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -3791,7 +3781,7 @@
    },
    {
       "area_name": {
-         "en": "Shawrartek",
+         "en": "Shawrartek / Saurartek",
          "bn": "সাওরারটেক"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3808,16 +3798,6 @@
       "city_corp_tag": "DNCC",
       "ward": "46",
       "id": "cb2226-ae27-7e1-b2fc-d64b13f40"
-   },
-   {
-      "area_name": {
-         "en": "Faydabad",
-         "bn": "ফায়দাবাদ"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "47",
-      "id": "1aa3f00-e72-d8a4-7aa0-c58dea883e36"
    },
    {
       "area_name": {
@@ -3851,8 +3831,8 @@
    },
    {
       "area_name": {
-         "en": "Dokkhinkhan",
-         "bn": "দক্ষিণখান"
+         "en": "Dokkhinkhan / Dakkhin Khan (Part - 2)",
+         "bn": "দক্ষিণখান (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -3911,8 +3891,8 @@
    },
    {
       "area_name": {
-         "en": "Kawla",
-         "bn": "কাওলার"
+         "en": "Kawla / Kaula",
+         "bn": "কাওলা / কাওলার"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -3961,7 +3941,7 @@
    },
    {
       "area_name": {
-         "en": "Azompur",
+         "en": "Azampur / Azompur",
          "bn": "আজমপুর"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3971,7 +3951,7 @@
    },
    {
       "area_name": {
-         "en": "Uttara Model Town Sector 11",
+         "en": "Uttara Model Town (Sector 11 - 14)",
          "bn": "উত্তরা মডেল টাউন সেক্টর ১১"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -3981,38 +3961,8 @@
    },
    {
       "area_name": {
-         "en": "Uttara Model Town Sector 12",
-         "bn": "উত্তরা মডেল টাউন সেক্টর ১২"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "51",
-      "id": "b8a264-d6ea-8d8b-41c7-145273dc4a4"
-   },
-   {
-      "area_name": {
-         "en": "Uttara Model Town Sector 13",
-         "bn": "উত্তরা মডেল টাউন সেক্টর ১৩"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "51",
-      "id": "8ed6fe-70c2-351-8ad2-e70df04f41f6"
-   },
-   {
-      "area_name": {
-         "en": "Uttara Model Town Sector 14",
-         "bn": "উত্তরা মডেল টাউন সেক্টর ১৪"
-      },
-      "city_corporation": "Dhaka North City Corporation",
-      "city_corp_tag": "DNCC",
-      "ward": "51",
-      "id": "7b87d0e-5162-01e4-581-d2c2235ef52"
-   },
-   {
-      "area_name": {
-         "en": "Bailjuri (Half)",
-         "bn": "বাইলজুড়ী (আংশিক)"
+         "en": "Bailjuri (Part - 1)",
+         "bn": "বাইলজুড়ী (আংশিক - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4021,8 +3971,8 @@
    },
    {
       "area_name": {
-         "en": "Bailjuri (Half)",
-         "bn": "বাইলজুড়ী (আংশিক)"
+         "en": "Bailjuri (Part - 2)",
+         "bn": "বাইলজুড়ী (আংশিক - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4031,8 +3981,8 @@
    },
    {
       "area_name": {
-         "en": "Baunia (Half)",
-         "bn": "বাউনিয়া (আংশিক)"
+         "en": "Baunia (Part - 2)",
+         "bn": "বাউনিয়া (আংশিক - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4121,7 +4071,7 @@
    },
    {
       "area_name": {
-         "en": "Sholahati",
+         "en": "Sholahati / Sholohati",
          "bn": "ষোলাহাটি"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4131,7 +4081,7 @@
    },
    {
       "area_name": {
-         "en": "Nolbhog",
+         "en": "Nolbhog / Nolvog",
          "bn": "নলভোগ"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4151,7 +4101,7 @@
    },
    {
       "area_name": {
-         "en": "Shukrobhanga",
+         "en": "Shukrobhanga / Shukrovanga",
          "bn": "শুক্রভাঙ্গা"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4181,7 +4131,7 @@
    },
    {
       "area_name": {
-         "en": "Sheikhdirtek",
+         "en": "Sheikhdirtek / Shekhdirtek",
          "bn": "শেখদিরটেক"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4251,8 +4201,8 @@
    },
    {
       "area_name": {
-         "en": "Ranabhola (Partial)",
-         "bn": "রানাভোলা (আংশিক)"
+         "en": "Ranavola (Part - 2)",
+         "bn": "রানাভোলা (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4261,8 +4211,8 @@
    },
    {
       "area_name": {
-         "en": "Fulbaria",
-         "bn": "ফুলবাড়িয়া"
+         "en": "Fulbaria (Part - 2)",
+         "bn": "ফুলবাড়িয়া (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4271,8 +4221,8 @@
    },
    {
       "area_name": {
-         "en": "Dhour (Partial)",
-         "bn": "ধউর (আংশিক)"
+         "en": "Dhour (Part - 1)",
+         "bn": "ধউর (পার্ট - ১)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4321,7 +4271,7 @@
    },
    {
       "area_name": {
-         "en": "Khairtek",
+         "en": "Khayertek / Khairtek",
          "bn": "খায়েরটেক"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4331,8 +4281,8 @@
    },
    {
       "area_name": {
-         "en": "Bhatulia",
-         "bn": "ভাটুলিয়া"
+         "en": "Bhatulia / Vatulia (Part - 2)",
+         "bn": "ভাটুলিয়া (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4351,8 +4301,8 @@
    },
    {
       "area_name": {
-         "en": "Rajabari",
-         "bn": "রাজাবাড়ী"
+         "en": "Rajabari / Razabari (Part - 2)",
+         "bn": "রাজাবাড়ী (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4361,8 +4311,8 @@
    },
    {
       "area_name": {
-         "en": "Dhour (Partial)",
-         "bn": "ধউর (আংশিক)"
+         "en": "Dhour (Part - 2)",
+         "bn": "ধউর (পার্ট - ২)"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4371,8 +4321,8 @@
    },
    {
       "area_name": {
-         "en": "Ashutia",
-         "bn": "আশুতিয়া"
+         "en": "Ashulia",
+         "bn": "আশুলিয়া"
       },
       "city_corporation": "Dhaka North City Corporation",
       "city_corp_tag": "DNCC",
@@ -4381,7 +4331,7 @@
    },
    {
       "area_name": {
-         "en": "Gram Bhatulia",
+         "en": "Gram Bhatulia / Vatulia",
          "bn": "গ্রাম ভাটুলিয়া"
       },
       "city_corporation": "Dhaka North City Corporation",
@@ -4421,33 +4371,13 @@
    },
    {
       "area_name": {
-         "en": "Meradia (Part-1)",
-         "bn": "মেরাদিয়া (১ম অংশ)"
+         "en": "Meradia",
+         "bn": "মেরাদিয়া"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
       "ward": "3",
       "id": "df8d2a2-a52-7c5d-b01-70c3eeb028f6"
-   },
-   {
-      "area_name": {
-         "en": "Meradia (Part-3",
-         "bn": "মেরাদিয়া (৩য় অংশ)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "3",
-      "id": "ec7610b-57a5-14ca-3c2a-0f3def328"
-   },
-   {
-      "area_name": {
-         "en": "Meradia (Part-2)",
-         "bn": "মেরাদিয়া (২য় অংশ)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "3",
-      "id": "5824a7-c5d5-068-f3b0-278faf4ede58"
    },
    {
       "area_name": {
@@ -4471,8 +4401,8 @@
    },
    {
       "area_name": {
-         "en": "Dakshin Mugda Para",
-         "bn": "দক্ষিণ মুগদাপাড়া"
+         "en": "Mugda Para",
+         "bn": "মুগদাপাড়া"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -4481,12 +4411,12 @@
    },
    {
       "area_name": {
-         "en": "Uttar Mugda Para",
-         "bn": "উত্তর মুগদাপাড়া"
+         "en": "Uttar Mugdapara Deputy Colony",
+         "bn": "উত্তর মুগদাপাড়া ডেপুটি কলোনী"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
-      "ward": "6",
+      "ward": "5",
       "id": "47cc4c5-e61-cf46-604-24780e0ccb7"
    },
    {
@@ -4651,8 +4581,8 @@
    },
    {
       "area_name": {
-         "en": "Siddeswary (Part-2)",
-         "bn": "সিদ্ধেস্বরী (২য় অংশ)"
+         "en": "Siddeswary",
+         "bn": "সিদ্ধেস্বরী"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5031,8 +4961,8 @@
    },
    {
       "area_name": {
-         "en": "Afsaruddin Road",
-         "bn": "আফসারউদ্দিন রোড"
+         "en": "Hazi Afsaruddin Road",
+         "bn": "হাজী আফসারউদ্দিন রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5061,8 +4991,8 @@
    },
    {
       "area_name": {
-         "en": "Hatembagh Road",
-         "bn": "হাতেমবাগ রোড"
+         "en": "Hatembagh",
+         "bn": "হাতেমবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5141,8 +5071,8 @@
    },
    {
       "area_name": {
-         "en": "Free School Street",
-         "bn": "ফ্রি স্কুল স্ট্রিট"
+         "en": "Free School Street Kathalbagan",
+         "bn": "ফ্রি স্কুল স্ট্রিট কাঁঠালবাগান"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5261,7 +5191,7 @@
    },
    {
       "area_name": {
-         "en": "Sukrabad",
+         "en": "Sukrabad / Shukrabad",
          "bn": "শুক্রাবাদ"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5271,7 +5201,7 @@
    },
    {
       "area_name": {
-         "en": "Tallabagh",
+         "en": "Tallabagh / Tollabagh",
          "bn": "তল্লাবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5291,8 +5221,8 @@
    },
    {
       "area_name": {
-         "en": "BGB Camp (Pilkhana)",
-         "bn": "বিজিবি ক্যাম্প (পিলখানা)"
+         "en": "BGB / BDR Camp (Pilkhana)",
+         "bn": "বিজিবি / বিডিআর ক্যাম্প (পিলখানা)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5311,7 +5241,7 @@
    },
    {
       "area_name": {
-         "en": "Elephant Road",
+         "en": "Elephant Road / New Elephant Road",
          "bn": "এলিফ্যান্ট রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5351,8 +5281,8 @@
    },
    {
       "area_name": {
-         "en": "Baje Kakrail",
-         "bn": "বাজে কাকরাইল"
+         "en": "Kakrail",
+         "bn": "কাকরাইল"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5371,8 +5301,8 @@
    },
    {
       "area_name": {
-         "en": "Circuit House",
-         "bn": "সার্কিট হাউজ"
+         "en": "Circuit House Road",
+         "bn": "সার্কিট হাউজ রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5388,16 +5318,6 @@
       "city_corp_tag": "DSCC",
       "ward": "19",
       "id": "7f167-b5f1-5b66-2481-8ab1f41f"
-   },
-   {
-      "area_name": {
-         "en": "Kakrail (Partial)",
-         "bn": "কাকরাইল (আংশিক)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "19",
-      "id": "3c14f26-00f2-56d0-7c15-f120c10c432"
    },
    {
       "area_name": {
@@ -5431,7 +5351,7 @@
    },
    {
       "area_name": {
-         "en": "Mintu Road",
+         "en": "Mintu Road / Minto Road",
          "bn": "মিন্টূ রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5541,8 +5461,8 @@
    },
    {
       "area_name": {
-         "en": "Fulbaria",
-         "bn": "ফুলবাড়িয়া"
+         "en": "Fulbaria Station Purbo/East Area",
+         "bn": "ফুলবাড়িয়া স্টেশন পূর্ব এরিয়া"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -7911,8 +7831,8 @@
    },
    {
       "area_name": {
-         "en": "RK Mission Road",
-         "bn": "আরকে মিশন রোড"
+         "en": "RK Mission Road (Holding 1 to 91/1)",
+         "bn": "আরকে মিশন রোড (হোল্ডিং ১ হতে ৯১/১)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -7961,16 +7881,6 @@
    },
    {
       "area_name": {
-         "en": "Madartek Dakshin (South)",
-         "bn": "মাদারটেক (দক্ষিণ)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "4",
-      "id": "a0303a-da1c-8475-abce-1f8e54ce881"
-   },
-   {
-      "area_name": {
          "en": "Bashabo Madhya  (Middle)",
          "bn": "বাসাবো (মধ্য)"
       },
@@ -7981,33 +7891,13 @@
    },
    {
       "area_name": {
-         "en": "Madartek Purbo (East)",
-         "bn": "মাদারটেক (পূর্ব)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "4",
-      "id": "0ac8e15-b7c-55d-2ffd-6b20d4cd2d70"
-   },
-   {
-      "area_name": {
-         "en": "Bashabo Purba  (East - Part) ",
-         "bn": "বাসাবো (পূর্ব অংশ)"
+         "en": "Bashabo (Purba / East) Holding 29/1 to Last",
+         "bn": "বাসাবো (পূর্ব অংশ) হোল্ডিং ২৯/১ থেকে শেষ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
       "ward": "4",
       "id": "7a10a6-388-4a56-0bee-a7db58a2f16"
-   },
-   {
-      "area_name": {
-         "en": "Madartek Uttar (North)",
-         "bn": "মাদারটেক (উত্তর)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "4",
-      "id": "5e23ece-d052-861-7580-0e2be002868"
    },
    {
       "area_name": {
@@ -8018,16 +7908,6 @@
       "city_corp_tag": "DSCC",
       "ward": "4",
       "id": "aefb316-84d4-8bd1-1b7f-d1737e615414"
-   },
-   {
-      "area_name": {
-         "en": "Madar Tek (West)",
-         "bn": "মাদারটেক (পশ্চিম)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "4",
-      "id": "68322-28a-34c-8f1-0c3bb83caab"
    },
    {
       "area_name": {
@@ -8731,8 +8611,8 @@
    },
    {
       "area_name": {
-         "en": "Bashabo Purbo (Block A)",
-         "bn": "বাসাবো (পূর্ব - ব্লক এ)"
+         "en": "Bashabo (Purbo / East) Holding 1 to 59",
+         "bn": "বাসাবো (পূর্ব) হোল্ডিং ১ থেকে ৫৯"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -8741,8 +8621,8 @@
    },
    {
       "area_name": {
-         "en": "Rajarbagh (A & B)",
-         "bn": "রাজারবাগ (এ, বি)"
+         "en": "Rajarbagh (South & North)",
+         "bn": "রাজারবাগ (উত্তর ও দক্ষিণ)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -9351,123 +9231,363 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Farmgate",
+         "bn": "ফার্মগেট"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "26",
       "id": "45bc32e-6b0-e511-5d5a-7f086a417bc"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Faidabad / Faydabad (Part - 2)",
+         "bn": "ফায়দাবাদ (আংশিক - ২)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "47",
       "id": "8ba47e-064a-6c8f-c60d-5abfac1ebcbf"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Baunia (Part - 1)",
+         "bn": "বাউনিয়া (আংশিক - ১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1",
       "id": "0502446-8e-4230-0f5-11c1181b7b8b"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Dokkhinkhan / Dakkhin Khan (Part - 1)",
+         "bn": "দক্ষিণখান (পার্ট - ১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "1",
       "id": "13578e8-2241-bcb4-815-443d0be706"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Mohammadpur Colony",
+         "bn": "মোহাম্মদপুর কলোনী"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "32",
       "id": "eec0fd4-5784-24e5-e2ed-1f8630b6b7c"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Aunindo / Onindo Housing",
+         "bn": "অনিন্দ হাউজিং এলাকা"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "33",
       "id": "a421c3-aa7d-8371-d355-dd0418d13577"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Rajabari / Razabari (Part - 1)",
+         "bn": "রাজাবাড়ী (পার্ট - ১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka North City Corporation",
+      "city_corp_tag": "DNCC",
+      "ward": "46",
       "id": "b34c517-aaed-cee6-8726-457ea71b5a18"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Green Square (Green Road)",
+         "bn": "গ্রীন স্কয়ার (গ্রীন রোড)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "67a4c-4110-21fd-1f14-bccac7efa32"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Green Road (East / Purbo)",
+         "bn": "গ্রীন রোড (পূর্ব)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "f0ee771-bcf-1b35-c50d-a7acd113e7c"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "West And Street (West Street)",
+         "bn": "ওয়েস্ট এন্ড স্ট্রিট (ওয়েস্ট স্ট্রিট)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "16",
       "id": "4cc6dfc-3778-b31-ec7c-3bed5dbc362"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Boshir Uddin Road / Bashir Uddin Road",
+         "bn": "বশীর উদ্দিন রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "17",
       "id": "2e45c7d-105f-4715-ab75-b7005ad232a5"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Institute of Social Welfare and Research",
+         "bn": "সমাজকল্যাণ ও গবেষণা ইনস্টিটিউট"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
       "id": "aca3c3b-3be-a430-012-c3866773fbb"
+   },
+   {
+      "area_name": {
+         "en": "Rahim Square",
+         "bn": "রহিম স্কয়ার"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
+      "id": "2b71b3-e6c4-c53c-f3cc-37077b34455"
+   },
+   {
+      "area_name": {
+         "en": "NAEM Road",
+         "bn": "নাইম / নায়েম রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
+      "id": "1aa3f00-e72-d8a4-7aa0-c58dea883e36"
+   },
+   {
+      "area_name": {
+         "en": "College Street",
+         "bn": "কলেজ স্ট্রিট / কলেজ রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
+      "id": "380412b-51e7-6cc5-ed85-20d6e13e144d"
+   },
+   {
+      "area_name": {
+         "en": "Teachers Training College / T T College",
+         "bn": "সরকারি টিচার্স ট্রেনিং কলেজ / টিটি কলেজ"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "18",
+      "id": "b8a264-d6ea-8d8b-41c7-145273dc4a4"
+   },
+   {
+      "area_name": {
+         "en": "Aminabad Colony",
+         "bn": "আমিনাবাদ কলোনী / আমিনাবাদ কলনি"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "19",
+      "id": "8ed6fe-70c2-351-8ad2-e70df04f41f6"
+   },
+   {
+      "area_name": {
+         "en": "Eastern Housing Apartment",
+         "bn": "ইস্টার্ন হাউজিং অ্যাপার্টমেন্ট "
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "19",
+      "id": "7b87d0e-5162-01e4-581-d2c2235ef52"
+   },
+   {
+      "area_name": {
+         "en": "Bangabandhu Avenue",
+         "bn": "বঙ্গবন্ধু এভিনিউ"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "3c14f26-00f2-56d0-7c15-f120c10c432"
+   },
+   {
+      "area_name": {
+         "en": "Secretariat Road",
+         "bn": "সচিবালয় রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "8a243e9a-24c2-4a45-9a86-4b4712ebc721"
+   },
+   {
+      "area_name": {
+         "en": "Abdul Gani Road",
+         "bn": "আব্দুল গনি সড়ক"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "05f13e25-1b20-4b06-aa3a-267f5d61a7a5"
+   },
+   {
+      "area_name": {
+         "en": "Toyenbee Circular Road",
+         "bn": "টয়েনবি সার্কুলার রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "b64a059f-198c-4ee0-b6b8-52e4e72c6dd2"
+   },
+   {
+      "area_name": {
+         "en": "Bangladesh University of Engineering and Technology (BUET)",
+         "bn": "বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয় (বুয়েট)"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "fc8da9b0-0a4b-48d6-8f1d-8f3b2c2b74a7"
+   },
+   {
+      "area_name": {
+         "en": "Mymensingh Road",
+         "bn": "ময়মনসিংহ রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "d07b8b7b-2c3e-434b-a6e2-6ec6d9e11615"
+   },
+   {
+      "area_name": {
+         "en": "Mymensingh Lane",
+         "bn": "ময়মনসিংহ লেন"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "20",
+      "id": "60d72d20-d0e1-4e2b-b8fc-7870cc5da1bb"
+   },
+   {
+      "area_name": {
+         "en": "PG Hospital / BSMMU",
+         "bn": "পিজি হাসপাতাল"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "245e1175-b29d-4c1a-ae46-c6a924422c39"
+   },
+   {
+      "area_name": {
+         "en": "National Museum Staff Quarter",
+         "bn": " জাতীয় জাদুঘর স্টাফ কোয়ার্টার"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "f6a01a65-8ba7-4995-96c2-c0a727465b4c"
+   },
+   {
+      "area_name": {
+         "en": "Public Library (Sufia Kamal National Public Library)",
+         "bn": "পাবলিক লাইব্রেরী (সুফিয়া কামাল জাতীয় পাবলিক লাইব্রেরী)"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "0e49388f-602d-4ce3-91a0-3f9b41b5b0b1"
+   },
+   {
+      "area_name": {
+         "en": "Habibullah Road",
+         "bn": "হাবিবুল্লাহ রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "cf7d3dd7-7480-4ed4-9aa2-9f424b719f15"
+   },
+   {
+      "area_name": {
+         "en": "Poribagh Shah Shaheb Road",
+         "bn": "পরীবাগ শাহ সাহেব রোড"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "21",
+      "id": "858362b2-07f5-4a1b-9c6d-981bf758fa1c"
+   },
+   {
+      "area_name": {
+         "en": "Bashabo Poschim (West)",
+         "bn": "বাসাবো পশ্চিম"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "4",
+      "id": "2a94e4ec-5824-4f69-8e3a-5032b38557c8"
+   },
+   {
+      "area_name": {
+         "en": "Madartek",
+         "bn": "মাদারটেক"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "4",
+      "id": "6215e4fd-4b2a-4fe2-9a2a-83a39ed961bd"
+   },
+   {
+      "area_name": {
+         "en": "Bashabo Kodomtola",
+         "bn": "বাসাবো কদমতলা"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "5",
+      "id": "b68a1c2d-7b20-45c1-b96a-537e5d5cb1e1"
+   },
+   {
+      "area_name": {
+         "en": "Sonali Bank Colony",
+         "bn": "সোনালী ব্যাংক কলোনী"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "8",
+      "id": "a49b295c-7d80-4cfc-9b34-8f59357c606c"
+   },
+   {
+      "area_name": {
+         "en": "RK Mission Road Gopibagh",
+         "bn": "আর কে মিশন রোড গোপীবাগ"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "8",
+      "id": "6eb27b36-89c5-4d43-8a49-8c48163aa0bf"
+   },
+   {
+      "area_name": {
+         "en": "Motijheel",
+         "bn": "মতিঝিল"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "8",
+      "id": "ac04e325-480c-484c-9c02-d6ef73a58a43"
    },
    {
       "area_name": {
@@ -9477,6 +9597,86 @@
       "city_corporation": "",
       "city_corp_tag": "",
       "ward": "",
-      "id": "2b71b3-e6c4-c53c-f3cc-37077b34455"
+      "id": "eaad9818-51c3-42c2-a654-1d6f59f7e6de"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "25a095d4-9e4d-4010-82c8-3b1e4d8e5e5d"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "f9a68048-9c9f-47a5-a8c8-cf0c7a9f9672"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "ec7610b-57a5-14ca-3c2a-0f3def328"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "5824a7-c5d5-068-f3b0-278faf4ede58"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "0ac8e15-b7c-55d-2ffd-6b20d4cd2d70"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "a0303a-da1c-8475-abce-1f8e54ce881"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "5e23ece-d052-861-7580-0e2be002868"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "68322-28a-34c-8f1-0c3bb83caab"
    }
 ]
