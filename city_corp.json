@@ -4421,8 +4421,8 @@
    },
    {
       "area_name": {
-         "en": "Dakshin Shantibagh",
-         "bn": "দক্ষিণ শান্তিবাগ"
+         "en": "Shantibagh",
+         "bn": "শান্তিবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -4448,16 +4448,6 @@
       "city_corp_tag": "DSCC",
       "ward": "12",
       "id": "edf7d45-d1fe-c452-ecfd-ae646f54656d"
-   },
-   {
-      "area_name": {
-         "en": "Shantibagh  Uttar (North)",
-         "bn": "শান্তিবাগ (উত্তর)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "12",
-      "id": "30457a-d263-4f6-fc1-ea0432142423"
    },
    {
       "area_name": {
@@ -4491,7 +4481,7 @@
    },
    {
       "area_name": {
-         "en": "Chamilibagh",
+         "en": "Chamelibagh",
          "bn": "চামেলীবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -4761,8 +4751,8 @@
    },
    {
       "area_name": {
-         "en": "T &t Colony",
-         "bn": "টি এন্ড টি কলোনী"
+         "en": "T&T Colony Motijheel",
+         "bn": "টি এন্ড টি কলোনী মতিঝিল"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -4781,8 +4771,8 @@
    },
    {
       "area_name": {
-         "en": "Mominbagh",
-         "bn": "মমিনবাগ"
+         "en": "Momenbagh",
+         "bn": "মোমেনবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -4841,8 +4831,8 @@
    },
    {
       "area_name": {
-         "en": "Moneshwar Road",
-         "bn": "মনেশ্বর রোড"
+         "en": "Moneshwar Road (1 to 36)",
+         "bn": "মনেশ্বর রোড (১ থেকে ৩৬ পর্যন্ত)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -4871,8 +4861,8 @@
    },
    {
       "area_name": {
-         "en": "Birbanda Kechura",
-         "bn": "বিরবান্দা কেচুরা"
+         "en": "Birban Kachra",
+         "bn": "বীরবান কাঁচড়া"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -4901,7 +4891,7 @@
    },
    {
       "area_name": {
-         "en": "Hazaribagh Tennery",
+         "en": "Hazaribagh / Hajaribagh Tennery",
          "bn": "হাজারীবাগ ট্যানারী"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -4931,8 +4921,8 @@
    },
    {
       "area_name": {
-         "en": "Sultanganj (Part)",
-         "bn": "সুলতানগঞ্জ (আংশিক)"
+         "en": "Sultanganj (Dokkhin / South)",
+         "bn": "সুলতানগঞ্জ (দক্ষিণ)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5011,8 +5001,8 @@
    },
    {
       "area_name": {
-         "en": "Mitali Road (Partial)",
-         "bn": "মিতালী রোড (আংশিক)"
+         "en": "Mitali Road (Part - 2)",
+         "bn": "মিতালী রোড (আংশিক - ২)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5551,8 +5541,8 @@
    },
    {
       "area_name": {
-         "en": "Baddanagar",
-         "bn": "বাড্ডানগর"
+         "en": "Baddanagar Lane",
+         "bn": "বাড্ডানগর লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5581,7 +5571,7 @@
    },
    {
       "area_name": {
-         "en": "Ganaktuli",
+         "en": "Ganaktuli / Gonoktuli",
          "bn": "গণকটুলি"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5611,23 +5601,13 @@
    },
    {
       "area_name": {
-         "en": "Kalunagar (East)",
-         "bn": "কালুনগর (পূর্ব)"
+         "en": "Kalunagar",
+         "bn": "কালুনগর"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
       "ward": "22",
       "id": "cc4aa-a36-685-d0ff-42d3111371"
-   },
-   {
-      "area_name": {
-         "en": "Kalunagar (West)",
-         "bn": "কালুনগর (পশ্চিম)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "22",
-      "id": "e855fbc-05ee-60e-ef30-be21d68c561c"
    },
    {
       "area_name": {
@@ -5651,16 +5631,6 @@
    },
    {
       "area_name": {
-         "en": "Moneshwar 2nd Lane",
-         "bn": "মনেশ্বর রোড ২য় লেন"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "22",
-      "id": "4a48226-acd-5576-65cc-7e83331af6ca"
-   },
-   {
-      "area_name": {
          "en": "Moneshwar Road",
          "bn": "মনেশ্বর রোড"
       },
@@ -5671,8 +5641,8 @@
    },
    {
       "area_name": {
-         "en": "Moneshwar 1st Lane",
-         "bn": "মনেশ্বর রোড ১ম লেন"
+         "en": "Moneshwar Lane",
+         "bn": "মনেশ্বর লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5681,7 +5651,7 @@
    },
    {
       "area_name": {
-         "en": "Nabipur Lane",
+         "en": "Nabipur / Nobipur Lane",
          "bn": "নবীপুর লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5701,7 +5671,7 @@
    },
    {
       "area_name": {
-         "en": "Sweeper Colony (Bhangi Colony)",
+         "en": "Sweeper Colony (Bhangi / Vangi Colony)",
          "bn": "সুইপার কলোনী (ভাংগি কলোনী)"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -8921,17 +8891,7 @@
    },
    {
       "area_name": {
-         "en": "Mominbagh",
-         "bn": "মমিনবাগ"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "56",
-      "id": "4fe0b2-8dc-68ca-e803-1bd12c66226b"
-   },
-   {
-      "area_name": {
-         "en": "Kazirbhag",
+         "en": "Kazirbagh",
          "bn": "কাজিরবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -9041,7 +9001,7 @@
    },
    {
       "area_name": {
-         "en": "Bangabhaban",
+         "en": "Bangabhaban / Bongabhaban",
          "bn": "বঙ্গভবন"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -9061,7 +9021,7 @@
    },
    {
       "area_name": {
-         "en": "Fakira Pool",
+         "en": "Fakirapool / Fokirapool",
          "bn": "ফকিরাপুল"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -9591,82 +9551,82 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Outer Circular Road",
+         "bn": "আউটার সার্কুলার রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "11",
       "id": "eaad9818-51c3-42c2-a654-1d6f59f7e6de"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Bakshibagh",
+         "bn": "বকশিবাগ"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "12",
       "id": "25a095d4-9e4d-4010-82c8-3b1e4d8e5e5d"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Indropuri / Indrapuri",
+         "bn": "ইন্দ্রপুরী"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "12",
       "id": "f9a68048-9c9f-47a5-a8c8-cf0c7a9f9672"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Gojmohal Road",
+         "bn": "গজমোহল রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "14",
       "id": "ec7610b-57a5-14ca-3c2a-0f3def328"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Mitali Road (Part - 1)",
+         "bn": "মিতালী রোড (আংশিক - ১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "14",
       "id": "5824a7-c5d5-068-f3b0-278faf4ede58"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Tallabagh (Rayerbazar/Jigatola Area)",
+         "bn": "তল্লাবাগ (রায়েরবাজার/জিগাতলা এলাকা)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "14",
       "id": "0ac8e15-b7c-55d-2ffd-6b20d4cd2d70"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Tali Office Road",
+         "bn": "টালি অফিস রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "14",
       "id": "a0303a-da1c-8475-abce-1f8e54ce881"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Modhubazar (Dokkhin / South)",
+         "bn": "মধুবাজার (দক্ষিণ)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "14",
       "id": "5e23ece-d052-861-7580-0e2be002868"
    },
    {
@@ -9678,5 +9638,45 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "68322-28a-34c-8f1-0c3bb83caab"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "4fe0b2-8dc-68ca-e803-1bd12c66226b"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "30457a-d263-4f6-fc1-ea0432142423"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "4a48226-acd-5576-65cc-7e83331af6ca"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "e855fbc-05ee-60e-ef30-be21d68c561c"
    }
 ]
