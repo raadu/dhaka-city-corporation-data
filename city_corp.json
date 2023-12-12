@@ -5831,8 +5831,8 @@
    },
    {
       "area_name": {
-         "en": "Gangaram Bazar",
-         "bn": "গঙ্গারাম বাজার"
+         "en": "Gangaram Bazar Lane",
+         "bn": "গঙ্গারাম বাজার লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5842,7 +5842,7 @@
    {
       "area_name": {
          "en": "Harmohan Shil Street",
-         "bn": "হরিমোহণ শিল স্ট্রিট"
+         "bn": "হরমোহণ শিল স্ট্রিট"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5851,8 +5851,8 @@
    },
    {
       "area_name": {
-         "en": "Kazi Reajuddin Road Lane",
-         "bn": "কাজি রিয়াজুদ্দিন রোড লেন"
+         "en": "Kazi Reajuddin Road / Lane",
+         "bn": "কাজি রিয়াজুদ্দিন রোড / লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5861,8 +5861,8 @@
    },
    {
       "area_name": {
-         "en": "Nagar Beltali",
-         "bn": "নগর বেলটলী"
+         "en": "Nagar Beltali Lane",
+         "bn": "নগর বেলটলী লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5871,7 +5871,7 @@
    },
    {
       "area_name": {
-         "en": "Pushparaj Saha Road",
+         "en": "Pushparaj / Pushporaj Saha Road",
          "bn": "পুষ্পরাজ সাহা রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5891,7 +5891,7 @@
    },
    {
       "area_name": {
-         "en": "Shekh Saheb Bazar Road",
+         "en": "Shekh / Sheikh Saheb Bazar Road",
          "bn": "শেখ সাহেব বাজার রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -5901,18 +5901,8 @@
    },
    {
       "area_name": {
-         "en": "Subal Das Road (Part)",
-         "bn": "সুবল দাস রোড (আংশিক)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "25",
-      "id": "1ffbc7b-2751-d7e7-847f-b7bda063e600"
-   },
-   {
-      "area_name": {
-         "en": "Uttar Jagannath Saha Road",
-         "bn": "উত্তর জগন্নাথ সাহা রোড"
+         "en": "Jagannath Saha Road (Holding 1 to 114)",
+         "bn": "উত্তর জগন্নাথ সাহা রোড (হোল্ডিং ১ থেকে ১১৪)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -9551,32 +9541,32 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Lalbagh Fort",
+         "bn": "লালবাগ কেল্লা / লালবাগ দুর্গ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
-      "ward": "",
+      "ward": "25",
       "id": "4fe0b2-8dc-68ca-e803-1bd12c66226b"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Rajoshree Nath Street / Road",
+         "bn": "রাজশ্রী নাথ স্ট্রিট / রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "25",
       "id": "30457a-d263-4f6-fc1-ea0432142423"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Lalbagh Road (Holding 48 to 157 and 257 to 325/1",
+         "bn": "লালবাগ রোড (হোল্ডিং ৪৮ থেকে ১৫৭ এবং ২৫৭ থেকে ৩২৫/১)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "25",
       "id": "4a48226-acd-5576-65cc-7e83331af6ca"
    },
    {
@@ -9678,5 +9668,15 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "2a32434-113c-2847-3d15-467abe0487"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "1ffbc7b-2751-d7e7-847f-b7bda063e600"
    }
 ]
