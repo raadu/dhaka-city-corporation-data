@@ -5911,16 +5911,6 @@
    },
    {
       "area_name": {
-         "en": "Azimpur Road (Part 1, 2)",
-         "bn": "আজিমপুর রোড (১ম ও ২য় অংশ)"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "26",
-      "id": "e213c50-2bc3-c658-5a5d-d6e70ea0281"
-   },
-   {
-      "area_name": {
          "en": "Azimpur Gorasthan Elaka",
          "bn": "আজিমপুর গোরস্থান এলাকা"
       },
@@ -5941,8 +5931,8 @@
    },
    {
       "area_name": {
-         "en": "Dakshin Azimpur Estate",
-         "bn": "দক্ষিণ আজিমপুর এস্টেট"
+         "en": "Azimpur Estate",
+         "bn": "আজিমপুর এস্টেট"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5951,8 +5941,8 @@
    },
    {
       "area_name": {
-         "en": "Dakkhin Nilkhet Municipal Market",
-         "bn": "দক্ষিণ নিলক্ষেত মিউনিসিপ্যাল মার্কেট"
+         "en": "Nilkhet Municipal / Shorkari Bazar",
+         "bn": "নিলক্ষেত মিউনিসিপ্যাল / সরকারী বাজার"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -5961,8 +5951,8 @@
    },
    {
       "area_name": {
-         "en": "Dakkhin Palashy Barrack",
-         "bn": "দক্ষিণ পলাশী ব্যারাক"
+         "en": "Polashi Barrack (West and South / Poschim and Dokkhin)",
+         "bn": "পলাশী ব্যারাক (পশ্চিম ও দক্ষিণ)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -6031,16 +6021,6 @@
    },
    {
       "area_name": {
-         "en": "Purba Azimpur Estate",
-         "bn": "পূর্ব আজিমপুর এস্টেট"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "26",
-      "id": "6241b1e-e-b808-cebb-ce8426bbb88e"
-   },
-   {
-      "area_name": {
          "en": "Rasulbagh",
          "bn": "রসুলবাগ"
       },
@@ -6048,16 +6028,6 @@
       "city_corp_tag": "DSCC",
       "ward": "26",
       "id": "78a25a-ac7-e120-e23f-fa58c22a14b"
-   },
-   {
-      "area_name": {
-         "en": "Uttar Azimpur Estate",
-         "bn": "উত্তর আজিমপুর এস্টেট"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "26",
-      "id": "cf3025e-ec83-1f62-a83-33e6ae5e5b4c"
    },
    {
       "area_name": {
@@ -9571,22 +9541,22 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Azimpur Road (Holding 1 to 178)",
+         "bn": "আজিমপুর রোড (হোল্ডিং ১ থেকে ১৭৮)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "26",
       "id": "e855fbc-05ee-60e-ef30-be21d68c561c"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Lalbagh Road (Holding 1 to 47 and 158 to 199)",
+         "bn": "লালবাগ রোড (হোল্ডিং ১ থেকে ৪৭ এবং ১৫৮ থেকে ১৯৯)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "26",
       "id": "45652da-55e8-18e3-32a-4717ff437edc"
    },
    {
@@ -9678,5 +9648,35 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "1ffbc7b-2751-d7e7-847f-b7bda063e600"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "e213c50-2bc3-c658-5a5d-d6e70ea0281"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "6241b1e-e-b808-cebb-ce8426bbb88e"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "cf3025e-ec83-1f62-a83-33e6ae5e5b4c"
    }
 ]
