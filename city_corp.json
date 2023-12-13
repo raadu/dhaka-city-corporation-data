@@ -6031,8 +6031,8 @@
    },
    {
       "area_name": {
-         "en": "Nazimuddin Road",
-         "bn": "নাজিমউদ্দিন রোড"
+         "en": "Nazimuddin Road (Holding 1 to 124)",
+         "bn": "নাজিমউদ্দিন রোড (হোল্ডিং ১ থেকে ১২৪)"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -6051,17 +6051,7 @@
    },
    {
       "area_name": {
-         "en": "Bakshi Bazar Lane",
-         "bn": "বকশী বাজার লেন"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "27",
-      "id": "3dea3aa-b6d-684b-b65f-22a5ba4bddf7"
-   },
-   {
-      "area_name": {
-         "en": "Bakshi Bazar Road",
+         "en": "Bakshi Bazar Road / Lane",
          "bn": "বকশী বাজার রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -6101,7 +6091,7 @@
    },
    {
       "area_name": {
-         "en": "Kamaldaha Road",
+         "en": "Kamaldaha / Komoldaha Road",
          "bn": "কমলদহ রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -6111,7 +6101,7 @@
    },
    {
       "area_name": {
-         "en": "Nurfatah Lane",
+         "en": "Nur Fattah Lane",
          "bn": "নুরফাতেহ লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -6122,7 +6112,7 @@
    {
       "area_name": {
          "en": "Nawab / Nobab Garden",
-         "bn": "নবাব গার্ডেন"
+         "bn": "নবাব বাগিচা / গার্ডেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -6151,8 +6141,8 @@
    },
    {
       "area_name": {
-         "en": "Tatkhan Lane",
-         "bn": "তাতীখান লেন"
+         "en": "Tatkhana / Tatikhan Lane",
+         "bn": "তাতীখান / তাতখানা লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -9561,22 +9551,22 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Amlapara City Road",
+         "bn": "আমলাপাড়া সিটি রোড"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "27",
       "id": "243c24c-2ec3-f8c0-c6b8-25766073fe"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Polashi Fire Service Station",
+         "bn": "পলাশী ফায়ার সার্ভিস স্টেশন"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "27",
       "id": "af3c6a8-d73-16d8-fd5b-0be5e0ad8708"
    },
    {
@@ -9678,5 +9668,15 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "cf3025e-ec83-1f62-a83-33e6ae5e5b4c"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "3dea3aa-b6d-684b-b65f-22a5ba4bddf7"
    }
 ]
