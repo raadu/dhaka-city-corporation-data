@@ -6181,8 +6181,8 @@
    },
    {
       "area_name": {
-         "en": "Haranath Ghosh Road",
-         "bn": "হারানাথ ঘোষ রোড"
+         "en": "Haranath Ghosh Road / Harnath Lane",
+         "bn": "হারানাথ ঘোষ রোড / হরনাথ লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -6191,17 +6191,7 @@
    },
    {
       "area_name": {
-         "en": "Haranath Ghosh Lane",
-         "bn": "হারানাথ ঘোষ লেন"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "28",
-      "id": "57ed1c3-c788-0b7-07f6-06167f633"
-   },
-   {
-      "area_name": {
-         "en": "Hyder Box Lane",
+         "en": "Sheikh Haider Box Lane",
          "bn": "হায়দার বক্স লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -6211,7 +6201,7 @@
    },
    {
       "area_name": {
-         "en": "Khaza Dewan 2nd Lane",
+         "en": "Khaja Dewan 2nd Lane",
          "bn": "খাজা দেওয়ান (২য় লেন)"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -6221,7 +6211,7 @@
    },
    {
       "area_name": {
-         "en": "Khaza Dalsing Lane",
+         "en": "Khaja Dalsing Lane",
          "bn": "খাজা ডালসিং লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -6241,7 +6231,7 @@
    },
    {
       "area_name": {
-         "en": "Khaza Dewan 1st Lane",
+         "en": "Khaja Dewan 1st Lane",
          "bn": "খাজা দেওয়ান (১ম লেন)"
       },
       "city_corporation": "Dhaka South City Corporation",
@@ -6251,8 +6241,8 @@
    },
    {
       "area_name": {
-         "en": "Mohammad Asgar Lane",
-         "bn": "মোহাম্মদ আসগর লেন"
+         "en": "Asgar Lane / Ajgar Lane",
+         "bn": "আসগর লেন"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -6291,8 +6281,8 @@
    },
    {
       "area_name": {
-         "en": "Haji Ballu Road",
-         "bn": "হাজী বাল্লু রোড"
+         "en": "Haji Ballu / Balu Road",
+         "bn": "হাজী বাল্লু / বালু রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -6301,23 +6291,13 @@
    },
    {
       "area_name": {
-         "en": "Paschim Islambagh",
-         "bn": "পশ্চিম ইসলামবাগ"
+         "en": "Islambagh",
+         "bn": "ইসলামবাগ"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
       "ward": "29",
       "id": "a151ef8-72a-0354-bfd6-8d152ea8b3"
-   },
-   {
-      "area_name": {
-         "en": "Purba Islambagh",
-         "bn": "পূর্ব ইসলামবাগ"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "29",
-      "id": "3fca7ec-2a7-db44-dcbe-f3480e8de1f7"
    },
    {
       "area_name": {
@@ -6331,8 +6311,8 @@
    },
    {
       "area_name": {
-         "en": "Sayestakhan Road (Part)",
-         "bn": "শায়েস্তা খান রোড (আংশিক)"
+         "en": "Shaista / Shayesta Khan Road",
+         "bn": "শায়েস্তা খান রোড"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -9571,22 +9551,22 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Gani / Goni Miar Hat",
+         "bn": "গনি মিঞা / মিয়ার হাট"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "29",
       "id": "e0b0f7a-fd65-0211-60b1-a10dabe66f"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Foria Potti",
+         "bn": "ফরিয়া পট্টি"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "29",
       "id": "10c38e1-46e1-f800-8afe-d557e7ede1f5"
    },
    {
@@ -9678,5 +9658,25 @@
       "city_corp_tag": "",
       "ward": "",
       "id": "3dea3aa-b6d-684b-b65f-22a5ba4bddf7"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "57ed1c3-c788-0b7-07f6-06167f633"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "3fca7ec-2a7-db44-dcbe-f3480e8de1f7"
    }
 ]
