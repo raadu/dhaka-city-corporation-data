@@ -8581,12 +8581,12 @@
    },
    {
       "area_name": {
-         "en": "Alinagar",
-         "bn": "আলিনগর"
+         "en": "Alinagar / Ali Nogor",
+         "bn": "আলিনগর / আলী নগর"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
-      "ward": "55",
+      "ward": "56",
       "id": "ef674e0-8851-22e-2dc8-ac3a34b8edf6"
    },
    {
@@ -8611,8 +8611,8 @@
    },
    {
       "area_name": {
-         "en": "Munshihati",
-         "bn": "মুন্সিহাটি"
+         "en": "Munshihati / Munshihati Nodir Paar",
+         "bn": "মুন্সিহাটি / মুন্সিহাটি নদীর পার"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -8632,7 +8632,7 @@
    {
       "area_name": {
          "en": "Takerhati",
-         "bn": "টাকেরহাটি"
+         "bn": "ট্যাকের হাটি"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
@@ -8671,12 +8671,12 @@
    },
    {
       "area_name": {
-         "en": "West Baragram",
-         "bn": "পশ্চিন বড়গ্রাম"
+         "en": "Baragram / Boro Gram",
+         "bn": "বড়গ্রাম"
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
-      "ward": "55",
+      "ward": "56",
       "id": "a3aef0-b77e-8b87-c583-d4dd7b6eba3"
    },
    {
@@ -8686,7 +8686,7 @@
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
-      "ward": "55",
+      "ward": "56",
       "id": "6252575-bb1a-17ae-5cc5-e21cbc7f631"
    },
    {
@@ -8696,7 +8696,7 @@
       },
       "city_corporation": "Dhaka South City Corporation",
       "city_corp_tag": "DSCC",
-      "ward": "56",
+      "ward": "57",
       "id": "c48ea73-2df2-a6a1-8ddc-fee200a2de18"
    },
    {
@@ -8708,16 +8708,6 @@
       "city_corp_tag": "DSCC",
       "ward": "56",
       "id": "3d7f5ac-7c1c-077a-34c-271df80ed2d"
-   },
-   {
-      "area_name": {
-         "en": "East Baragram",
-         "bn": "পূর্ব বড়গ্রাম"
-      },
-      "city_corporation": "Dhaka South City Corporation",
-      "city_corp_tag": "DSCC",
-      "ward": "56",
-      "id": "af8581-a7f3-81cd-46-f4ec3152de4"
    },
    {
       "area_name": {
@@ -9571,103 +9561,173 @@
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Jhauchor",
+         "bn": "ঝাউচর"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "55",
       "id": "74e0c8a-d7fc-eb7b-2b4f-fc3cf3b051ab"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Jhaulahati",
+         "bn": "ঝাউলাহাটি"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "55",
       "id": "283e07c-e488-e4e7-0bd6-337dbcffebf"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Noyagao",
+         "bn": "নয়াগাঁও"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "55",
       "id": "876c20-01-c7d2-28a7-4e4a1eec61a2"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Munsur Bagh / Monsur Bagh",
+         "bn": "মুনসুর বাগ / মনসুর বাগ"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "55",
       "id": "2a32434-113c-2847-3d15-467abe0487"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Sirajnagar / Shiraj Nagar",
+         "bn": "সিরাজনগর"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "55",
       "id": "1ffbc7b-2751-d7e7-847f-b7bda063e600"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "South Rasulpur",
+         "bn": "দক্ষিণ রসুলপুর"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "56",
       "id": "e213c50-2bc3-c658-5a5d-d6e70ea0281"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Huzurpara / Hujur Para",
+         "bn": "হুজুরপাড়া / হুজুর পাড়া"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "56",
+      "id": "af8581-a7f3-81cd-46-f4ec3152de4"
+   },
+   {
+      "area_name": {
+         "en": "Ahsan Bagh",
+         "bn": "আহছান বাগ"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
       "id": "6241b1e-e-b808-cebb-ce8426bbb88e"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Momin Bagh",
+         "bn": "মমিন বাগ / মোমিনবাগ "
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
       "id": "cf3025e-ec83-1f62-a83-33e6ae5e5b4c"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Ashrafabad (West)",
+         "bn": "আসরাফাবাদ (পশ্চিম)"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "56",
       "id": "3dea3aa-b6d-684b-b65f-22a5ba4bddf7"
    },
    {
       "area_name": {
-         "en": "",
-         "bn": ""
+         "en": "Dukhuria / Dukhuriya",
+         "bn": "দুখুরিয়া"
       },
-      "city_corporation": "",
-      "city_corp_tag": "",
-      "ward": "",
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
       "id": "57ed1c3-c788-0b7-07f6-06167f633"
+   },
+   {
+      "area_name": {
+         "en": "Jongol Bari",
+         "bn": "জঙ্গল বাড়ী"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
+      "id": "3fca7ec-2a7-db44-dcbe-f3480e8de1f7"
+   },
+   {
+      "area_name": {
+         "en": "Comilla Para",
+         "bn": "কুমিল্লা পাড়া"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f701"
+   },
+   {
+      "area_name": {
+         "en": "Rahamat / Rohomot Bagh",
+         "bn": "রহমত বাগ"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f702"
+   },
+   {
+      "area_name": {
+         "en": "Baghchan Kha / Bagchan Kha",
+         "bn": "বাঘচান খা"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f703"
+   },
+   {
+      "area_name": {
+         "en": "Haslai",
+         "bn": "হাসলাই"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f704"
+   },
+   {
+      "area_name": {
+         "en": "Muslim Bagh",
+         "bn": "মুসলিমবাগ"
+      },
+      "city_corporation": "Dhaka South City Corporation",
+      "city_corp_tag": "DSCC",
+      "ward": "57",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f705"
    },
    {
       "area_name": {
@@ -9677,6 +9737,46 @@
       "city_corporation": "",
       "city_corp_tag": "",
       "ward": "",
-      "id": "3fca7ec-2a7-db44-dcbe-f3480e8de1f7"
+      "id": "3fca7ec2a7db44dcbea3480e8de1f706"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f707"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f708"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f709"
+   },
+   {
+      "area_name": {
+         "en": "",
+         "bn": ""
+      },
+      "city_corporation": "",
+      "city_corp_tag": "",
+      "ward": "",
+      "id": "3fca7ec2a7db44dcbea3480e8de1f710"
    }
 ]
